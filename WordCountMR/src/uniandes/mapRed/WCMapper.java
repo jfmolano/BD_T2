@@ -31,7 +31,7 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 		//for(String k:palabrasLinea.keySet()){
 	    // Now create matcher object.
 		String val = value.toString();	    
-		if(val.contains("Nairo Quintana")){
+		if(val.contains("Radamel Falcao")){
 			String pattern_infobox = "\\{\\{Infobox[\\s\\S]*?\\}\\}";
 		    Pattern p_infobox = Pattern.compile(pattern_infobox, Pattern.MULTILINE);
 			Matcher m_infobox = p_infobox.matcher(value.toString());
@@ -44,14 +44,36 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 			    String dob = "";
 			    if (m_dob.find()) {
 			    	dob = m_dob.group(0);
-			    	String pattern_title = "<title>[\\s\\S]*?<\\/title>";
-				    Pattern p_title = Pattern.compile(pattern_title, Pattern.MULTILINE);
-			    	Matcher m_title = p_title.matcher(val.toString());
-				    String titulo = "";
-				    if (m_title.find()) {
-				    	titulo = m_title.group(0);
-						context.write(new Text(titulo+";"+dob), new IntWritable(1));
+			    	//Parsear fecha
+			    	String pattern_ymd = "\\d{4}|\\d{3}|\\d{2}|\\d{1}";
+				    Pattern p_ymd = Pattern.compile(pattern_ymd, Pattern.MULTILINE);
+			    	Matcher m_ymd = p_ymd.matcher(dob);
+				    int i = 0;
+				    String[] num_arr = new String[3];
+				    while (m_ymd.find() && i<3) {
+				    	num_arr[i] = m_ymd.group(0);
+				    	i++;
 				    }
+				    try{
+				    	String anio = num_arr[0];
+					    String mes = num_arr[1].length()==1?"0"+num_arr[1]:num_arr[1];
+					    String dia = num_arr[2].length()==1?"0"+num_arr[2]:num_arr[2];
+					    String fecha = anio + "-" + mes + "-" + dia;
+				    	//Titulo
+				    	String pattern_title = "<title>[\\s\\S]*?<\\/title>";
+					    Pattern p_title = Pattern.compile(pattern_title, Pattern.MULTILINE);
+				    	Matcher m_title = p_title.matcher(val.toString());
+					    String titulo = "";
+					    if (m_title.find()) {
+					    	titulo = m_title.group(0);
+							titulo = titulo.substring(7, titulo.length()-8);
+							context.write(new Text(titulo+";"+fecha), new IntWritable(1));
+					    }
+				    }
+				    catch(Exception e){
+				    	
+				    }
+				    
 			    }
 		    }			
 		}
