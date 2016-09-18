@@ -31,7 +31,7 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 		//for(String k:palabrasLinea.keySet()){
 	    // Now create matcher object.
 		String val = value.toString();	    
-		if(val.contains("Barack Obama")){
+		//if(val.contains("Barack Obama")){
 			String pattern_infobox = "\\{\\{Infobox[\\s\\S]*?\\}\\}";
 		    Pattern p_infobox = Pattern.compile(pattern_infobox, Pattern.MULTILINE);
 			Matcher m_infobox = p_infobox.matcher(value.toString());
@@ -81,7 +81,7 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 					    if (m_title.find()) {
 					    	titulo = m_title.group(0);
 							titulo = titulo.substring(7, titulo.length()-8);
-							context.write(new Text(titulo+";"+fecha+";"+pob), new IntWritable(1));
+							context.write(new Text("P"+";"+titulo+";"+fecha+";"+pob+";"), new IntWritable(1));
 							context.write(new Text("Cuenta: "), new IntWritable(1));
 					    }
 				    }
@@ -91,7 +91,7 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 				    
 			    }
 		    }			
-		}
+		//}
 		//}
 		
 	}
