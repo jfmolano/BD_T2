@@ -28,7 +28,7 @@ public class WCReducer extends Reducer<Text, Text, Text, IntWritable> {
 			for(int j = 0;j<semillas.size();j++){
 				String semilla_str = semillas.get(j);
 				if(!join_str.contains(semilla_str)){
-					context.write(new Text(join_str+";"+semilla_str), new IntWritable(0));					
+					context.write(new Text("LD;"+join_str+";"+semilla_str+";"), new IntWritable(0));					
 				}
 			}
 		}
