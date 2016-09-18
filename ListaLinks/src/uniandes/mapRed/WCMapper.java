@@ -64,24 +64,21 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 					    Pattern p_title = Pattern.compile(pattern_title, Pattern.MULTILINE);
 				    	Matcher m_title = p_title.matcher(val);
 					    String titulo = "";
-					    //POB
-					    String pattern_pob = "birth_place[\\s\\S]*?\\|";
-					    Pattern p_pob = Pattern.compile(pattern_pob, Pattern.MULTILINE);
-				    	Matcher m_pob = p_pob.matcher(val);
-				    	String pob = "";
-					    if (m_pob.find()) {
-					    	pob = m_pob.group(0).split("=")[1];
-					    	pob = pob.replace("\n", "");
-					    	pob = pob.replace("\r", "");
-					    	pob = pob.replace(" ", "");
-					    	pob = pob.replace("[", "");
-					    	pob = pob.replace("]", "");
-					    	pob = pob.substring(0,pob.length()-1);
-					    }
 					    if (m_title.find()) {
 					    	titulo = m_title.group(0);
 							titulo = titulo.substring(7, titulo.length()-8);
-							context.write(new Text("P"+";"+titulo+";"+fecha+";"+pob+";"), new IntWritable(1));
+					    }
+					    //Links
+					    String pattern_link = "\\[\\[[\\s\\S]*?\\]\\]";
+					    Pattern p_link = Pattern.compile(pattern_link, Pattern.MULTILINE);
+				    	Matcher m_link = p_link.matcher(val);
+					    while (m_link.find()) {
+					    	String temp_link = m_link.group(0);
+					    	temp_link = temp_link.replace("\n", "");
+					    	temp_link = temp_link.replace("\r", "");
+					    	temp_link = temp_link.replace("[", "");
+					    	temp_link = temp_link.replace("]", "");
+							context.write(new Text("L"+";"+titulo+";"+temp_link+";"), new IntWritable(1));
 							context.write(new Text("Cuenta: "), new IntWritable(1));
 					    }
 				    }
