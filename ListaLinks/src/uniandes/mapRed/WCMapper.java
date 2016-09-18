@@ -40,7 +40,7 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 		    	info_box = m_infobox.group(0);
 				String pattern_dob = "birth_date[\\s\\S]*?\\}\\}";
 			    Pattern p_dob = Pattern.compile(pattern_dob, Pattern.MULTILINE);
-		    	Matcher m_dob = p_dob.matcher(info_box);
+		    	Matcher m_dob = p_dob.matcher(val);
 			    String dob = "";
 			    if (m_dob.find()) {
 			    	dob = m_dob.group(0);

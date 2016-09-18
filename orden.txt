@@ -1,4 +1,6 @@
-1) WordCountMR
-2) ListaLinks
-3) JoinLinkNombres
-4) LinksDobles
+1) WordCountMR - Saca la lista de los personajes
+2) ListaLinks - Saca la lista de links en cada personaje
+3) JoinLinkNombres - Saca solo los links que corresponden a un personaje
+4) LinksDobles - Saca solo los links mutuos (arbol_N1)
+5) LinksDoblesCuentas - Saca links a dos niveles (arbol_N2)
+6) Busqueda (consultas)

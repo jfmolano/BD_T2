@@ -40,7 +40,7 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 		    	info_box = m_infobox.group(0);
 				String pattern_dob = "birth_date[\\s\\S]*?\\}\\}";
 			    Pattern p_dob = Pattern.compile(pattern_dob, Pattern.MULTILINE);
-		    	Matcher m_dob = p_dob.matcher(info_box);
+		    	Matcher m_dob = p_dob.matcher(val);
 			    String dob = "";
 			    if (m_dob.find()) {
 			    	dob = m_dob.group(0);
@@ -81,7 +81,8 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 					    if (m_title.find()) {
 					    	titulo = m_title.group(0);
 							titulo = titulo.substring(7, titulo.length()-8);
-							context.write(new Text("P"+";"+titulo+";"+fecha+";"+pob+";"), new IntWritable(1));
+							String []pob_split = pob.split(",");
+							context.write(new Text("P"+";"+titulo+";"+fecha+";"+pob_split[pob_split.length-1]+";"), new IntWritable(1));
 							context.write(new Text("Cuenta: "), new IntWritable(1));
 					    }
 				    }
