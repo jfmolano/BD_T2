@@ -37,7 +37,7 @@ public class WordCounter {
 		 * uno u otro es requerido. 
 		 * */
 		Configuration conf = new Configuration();
-		conf.set("textinputformat.record.delimiter","</page>");
+		//conf.set("textinputformat.record.delimiter","</page>");
 		Job wcJob=Job.getInstance(conf, "WordCounter Job");
 		wcJob.setJarByClass(WordCounter.class);
 		//////////////////////
@@ -47,13 +47,13 @@ public class WordCounter {
 		wcJob.setMapperClass(WCMapper.class);
 		
 		wcJob.setMapOutputKeyClass(Text.class);
-		wcJob.setMapOutputValueClass(IntWritable.class);
+		wcJob.setMapOutputValueClass(Text.class);
 		///////////////////////////
 		//Reducer
 		///////////////////////////
 		wcJob.setReducerClass(WCReducer.class);
 		wcJob.setOutputKeyClass(Text.class);
-		wcJob.setOutputValueClass(IntWritable.class);
+		wcJob.setOutputValueClass(Text.class);
 		
 		///////////////////////////
 		//Input Format
