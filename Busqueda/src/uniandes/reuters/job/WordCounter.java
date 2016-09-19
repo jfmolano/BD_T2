@@ -16,21 +16,25 @@ import uniandes.mapRed.WCReducer;
 
 public class WordCounter {
 	public static void main(String[] args)  {
-		if(args.length<2){
+		if(args.length<6){
 			System.out.println("Se necesitan las carpetas de entrada y salida");
 			System.exit(-1);
 		}
 		String entrada = args[0]; //carpeta de entrada
 		String salida = args[1];//La carpeta de salida no puede existir
+		String nombre = args[2]; //Nombre
+		String pais = args[3];//Pais
+		String fecha_ini = args[4]; //Fecha ini
+		String fecha_fin = args[5];//Fecha fin
 		
 		try {
-			ejecutarJob(entrada, salida);
+			ejecutarJob(entrada, salida, nombre, pais, fecha_ini, fecha_fin);
 		} catch (Exception e) { //Puede ser IOException, ClassNotFoundException o InterruptedException
 			e.printStackTrace();
 		} 
 		
 	}
-	public static void ejecutarJob(String entrada, String salida) throws IOException,ClassNotFoundException, InterruptedException
+	public static void ejecutarJob(String entrada, String salida, String nombre, String pais, String fini, String ffin) throws IOException,ClassNotFoundException, InterruptedException
 	{
 		/**
 		 * Objeto de configuraci�n, dependiendo de la versi�n de Hadoop 
@@ -38,6 +42,10 @@ public class WordCounter {
 		 * */
 		Configuration conf = new Configuration();
 		//conf.set("textinputformat.record.delimiter","</page>");
+		conf.set("nombre_consulta",nombre);
+		conf.set("pais_consulta",pais);
+		conf.set("fini_consulta",fini);
+		conf.set("ffin_consulta",ffin);
 		Job wcJob=Job.getInstance(conf, "WordCounter Job");
 		wcJob.setJarByClass(WordCounter.class);
 		//////////////////////

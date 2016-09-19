@@ -21,10 +21,10 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 	protected void map(LongWritable key, Text value,
 			Context context)
 			throws IOException, InterruptedException {
-		String fecha_ini_str = "-";
-		String fecha_fin_str = "1960-01-01";
-		String pais_busqueda = "-";
-		String nombre_busqueda = "Balvin";		
+		String fecha_ini_str = context.getConfiguration().get("fini_consulta");
+		String fecha_fin_str = context.getConfiguration().get("ffin_consulta");
+		String pais_busqueda = context.getConfiguration().get("pais_consulta");
+		String nombre_busqueda = context.getConfiguration().get("nombre_consulta");		
 		
 		String val = value.toString();
 		if(val.startsWith("P")){
@@ -73,8 +73,8 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 				}
 				context.write(new Text("P;"+nombre_2+";"+fecha_2+";"+pais_2+";"), new IntWritable(1));
 				context.write(new Text("R;"+nombre+";"+nombre_2+";"), new IntWritable(1));
-				context.write(new Text("PAIS;"+pais+";"+pais_2+";"), new IntWritable(1));
-				context.write(new Text("PAIS;"+pais_2+";"+pais+";"), new IntWritable(1));
+				context.write(new Text("R_PAIS;"+pais+";"+pais_2+";"), new IntWritable(1));
+				context.write(new Text("R_PAIS;"+pais_2+";"+pais+";"), new IntWritable(1));
 			}
 			
 		}else if(val.startsWith("LD")){
@@ -120,8 +120,8 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 				}
 				context.write(new Text("P;"+nombre_3+";"+fecha_3+";"+pais_3+";"), new IntWritable(1));
 				context.write(new Text("R;"+nombre_2+";"+nombre_3+";"), new IntWritable(1));
-				context.write(new Text("PAIS;"+pais_2+";"+pais_3+";"), new IntWritable(1));
-				context.write(new Text("PAIS;"+pais_3+";"+pais_2+";"), new IntWritable(1));
+				context.write(new Text("R_PAIS;"+pais_2+";"+pais_3+";"), new IntWritable(1));
+				context.write(new Text("R_PAIS;"+pais_3+";"+pais_2+";"), new IntWritable(1));
 			}
 		}
 	}
