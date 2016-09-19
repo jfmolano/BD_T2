@@ -1,0 +1,3365 @@
+[]
+['Job: job_1473110334446_1488\n', 'Job File: hdfs://clusterbigdata-38.virtual.uniandes.edu.co:8020/user/bigdata2/.staging/job_1473110334446_1488/job.xml\n', 'Job Tracking URL : http://clusterbigdata-39.virtual.uniandes.edu.co:8088/proxy/application_1473110334446_1488/\n', 'Uber job : false\n', 'Number of maps: 7\n', 'Number of reduces: 1\n', 'map() completion: 1.0\n', 'reduce() completion: 1.0\n', 'Job state: SUCCEEDED\n', 'retired: false\n', 'reason for failure:  \n']
+Algeria
+France
+	2
+
+Allied-occupiedGermany
+Brazil
+	1
+
+Allied-occupiedGermany
+LisboaRegion
+	1
+
+Allied-occupiedGermany
+SantaFe
+	1
+
+Argentina
+Brazil
+	2
+
+Argentina
+England
+	6
+
+Argentina
+France
+	2
+
+Argentina
+Italy
+	1
+
+Argentina
+LisboaRegion
+	2
+
+Argentina
+Maputo
+	2
+
+Argentina
+Portugal
+	4
+
+Argentina
+SantaFe
+	5
+
+Argentina
+Spain
+	2
+
+Argentina
+Switzerland
+	1
+
+Argentina
+Wales
+	1
+
+Argentina
+WestGermany
+	1
+
+Asturias
+Poland
+	1
+
+Australia
+Brazil
+	1
+
+Australia
+WestGermany
+	1
+
+Austria
+LisboaRegion
+	1
+
+Austria
+WestGermany
+	3
+
+BasqueCountry(autonomouscommunity)
+Brazil
+	1
+
+BasqueCountry(autonomouscommunity)
+SantaFe
+	1
+
+Belgium
+France
+	2
+
+Belgium
+LisboaRegion
+	1
+
+Belgium
+Uruguay
+	1
+
+Brazil
+Allied-occupiedGermany
+	1
+
+Brazil
+Argentina
+	2
+
+Brazil
+Australia
+	1
+
+Brazil
+BasqueCountry(autonomouscommunity)
+	1
+
+Brazil
+Brazil
+	40
+
+Brazil
+BuenosAiresprovince
+	2
+
+Brazil
+Chile
+	1
+
+Brazil
+Croatia
+	1
+
+Brazil
+England
+	4
+
+Brazil
+FirstBrazilianRepublic
+	1
+
+Brazil
+France
+	17
+
+Brazil
+FrancoistSpain
+	1
+
+Brazil
+FrenchprotectorateinMorocco
+	1
+
+Brazil
+Germany
+	1
+
+Brazil
+Italy
+	6
+
+Brazil
+IvoryCoast
+	1
+
+Brazil
+Liberia
+	1
+
+Brazil
+LisboaRegion
+	3
+
+Brazil
+Mexico
+	1
+
+Brazil
+MinasGerais
+	1
+
+Brazil
+Netherlands
+	4
+
+Brazil
+NorthernIreland
+	1
+
+Brazil
+PauGrande
+	1
+
+Brazil
+Poland
+	2
+
+Brazil
+Portugal
+	7
+
+Brazil
+SantaFe
+	10
+
+Brazil
+SovietUnion
+	1
+
+Brazil
+Spain
+	2
+
+Brazil
+Sweden
+	1
+
+Brazil
+SãoPaulo(city)
+	1
+
+Brazil
+SãoPaulo
+	1
+
+Brazil
+U.S.
+	1
+
+Brazil
+WestGermany
+	5
+
+Brazil
+YamanashiPrefecture
+	1
+
+Brazil
+{{flagicon
+	1
+
+Bronckhorst
+Netherlands
+	1
+
+Bronckhorst
+Uruguay
+	1
+
+BuenosAires
+LisboaRegion
+	1
+
+BuenosAires
+SantaFe
+	2
+
+BuenosAires
+Scotland
+	1
+
+BuenosAiresprovince
+Brazil
+	2
+
+BuenosAiresprovince
+France
+	1
+
+BuenosAiresprovince
+SantaFe
+	1
+
+California
+England
+	1
+
+California
+France
+	1
+
+California
+WestGermany
+	1
+
+Cameroon
+Scotland
+	1
+
+Chemnitz
+WestGermany
+	1
+
+Chile
+Brazil
+	1
+
+Chile
+France
+	1
+
+Chile
+LisboaRegion
+	1
+
+Coimbra(Portugal)
+WestGermany
+	1
+
+Colombia
+England
+	1
+
+Colombia
+France
+	1
+
+Cork(city)
+England
+	1
+
+Cork(city)
+Scotland
+	1
+
+Coted'Ivoire
+IvoryCoast
+	1
+
+CountyCork
+Scotland
+	1
+
+Croatia
+Brazil
+	1
+
+Cyprus
+England
+	1
+
+Czechoslovakia
+SantaFe
+	1
+
+Czechoslovakia
+WestGermany
+	1
+
+Denmark
+LisboaRegion
+	1
+
+EMPTY_STR
+England
+	2
+
+EMPTY_STR
+France
+	1
+
+EMPTY_STR
+WestGermany
+	4
+
+EastGermany
+LisboaRegion
+	1
+
+EastGermany
+Portugal
+	1
+
+Egypt
+IvoryCoast
+	1
+
+England
+Argentina
+	6
+
+England
+Brazil
+	4
+
+England
+California
+	1
+
+England
+Colombia
+	1
+
+England
+Cork(city)
+	1
+
+England
+Cyprus
+	1
+
+England
+EMPTY_STR
+	2
+
+England
+England
+	50
+
+England
+Finland
+	1
+
+England
+France
+	8
+
+England
+FrancoistSpain
+	1
+
+England
+GreaterManchester
+	2
+
+England
+Honduras
+	1
+
+England
+Ireland
+	1
+
+England
+Italy
+	3
+
+England
+IvoryCoast
+	3
+
+England
+LisboaRegion
+	3
+
+England
+LondonBoroughofSutton
+	1
+
+England
+Maputo
+	3
+
+England
+Montenegro
+	1
+
+England
+Netherlands
+	5
+
+England
+Norway
+	1
+
+England
+NuevaLoja
+	1
+
+England
+Paraguay
+	1
+
+England
+Poland
+	1
+
+England
+Portugal
+	6
+
+England
+PortugueseMozambique
+	1
+
+England
+SantaFe
+	4
+
+England
+Scotland
+	30
+
+England
+SovietUnion
+	1
+
+England
+Spain
+	6
+
+England
+Sweden
+	2
+
+England
+UkrainianSovietSocialistRepublic
+	1
+
+England
+UnitedStates
+	2
+
+England
+Uruguay
+	3
+
+England
+Užice
+	1
+
+England
+Wales
+	3
+
+England
+WestGermany
+	2
+
+EntreRíos
+Scotland
+	1
+
+Essonne
+Poland
+	1
+
+Ethiopia
+Spain
+	1
+
+Finland
+England
+	1
+
+Finland
+WestGermany
+	3
+
+FirstBrazilianRepublic
+Brazil
+	1
+
+FlensburgGovernment
+LisboaRegion
+	1
+
+France
+Algeria
+	2
+
+France
+Argentina
+	2
+
+France
+Belgium
+	2
+
+France
+Brazil
+	17
+
+France
+BuenosAiresprovince
+	1
+
+France
+California
+	1
+
+France
+Chile
+	1
+
+France
+Colombia
+	1
+
+France
+EMPTY_STR
+	1
+
+France
+England
+	8
+
+France
+France
+	54
+
+France
+FrancoistSpain
+	1
+
+France
+FrenchAlgeria
+	1
+
+France
+Ghana
+	1
+
+France
+Guadeloupe
+	2
+
+France
+Italy
+	5
+
+France
+IvoryCoast
+	1
+
+France
+LisboaRegion
+	1
+
+France
+Netherlands
+	9
+
+France
+Poland
+	1
+
+France
+Portugal
+	6
+
+France
+SantaFe
+	7
+
+France
+Scotland
+	5
+
+France
+Seine-Maritime
+	1
+
+France
+Senegal
+	3
+
+France
+SocialistFederalRepublicofYugoslavia
+	1
+
+France
+Spain
+	2
+
+France
+Suriname(KingdomoftheNetherlands)
+	1
+
+France
+UkrainianSovietSocialistRepublic
+	1
+
+France
+UnitedStates
+	1
+
+France
+Uruguay
+	4
+
+France
+Wales
+	1
+
+France
+WestGermany
+	8
+
+France
+YamanashiPrefecture
+	1
+
+FrancoistSpain
+Brazil
+	1
+
+FrancoistSpain
+England
+	1
+
+FrancoistSpain
+France
+	1
+
+FrancoistSpain
+LisboaRegion
+	2
+
+FrancoistSpain
+Spain
+	3
+
+FrenchAlgeria
+France
+	1
+
+FrenchGuiana
+IvoryCoast
+	1
+
+FrenchGuiana
+LisboaRegion
+	1
+
+FrenchprotectorateinMorocco
+Brazil
+	1
+
+Germany
+Brazil
+	1
+
+Germany
+LisboaRegion
+	1
+
+Germany
+SantaFe
+	2
+
+Germany
+Spain
+	1
+
+Germany
+WestGermany
+	4
+
+Ghana
+France
+	1
+
+Ghana
+IvoryCoast
+	1
+
+Ghana
+LisboaRegion
+	2
+
+Ghana
+Uruguay
+	1
+
+GladsaxeMunicipality
+Scotland
+	1
+
+GreaterAccraRegion
+Uruguay
+	1
+
+GreaterManchester
+England
+	2
+
+Guadeloupe
+France
+	2
+
+Haute-Saône
+IvoryCoast
+	1
+
+Honduras
+England
+	1
+
+India
+Scotland
+	1
+
+India
+WestGermany
+	1
+
+Indonesia
+Portugal
+	1
+
+Ireland
+England
+	1
+
+Israel
+LisboaRegion
+	1
+
+Italy
+Argentina
+	1
+
+Italy
+Brazil
+	6
+
+Italy
+England
+	3
+
+Italy
+France
+	5
+
+Italy
+IvoryCoast
+	1
+
+Italy
+LisboaRegion
+	6
+
+Italy
+Portugal
+	1
+
+Italy
+SantaFe
+	1
+
+Italy
+Spain
+	4
+
+Italy
+Uruguay
+	1
+
+Italy
+Wales
+	2
+
+Italy
+WestGermany
+	2
+
+IvoryCoast
+Brazil
+	1
+
+IvoryCoast
+Coted'Ivoire
+	1
+
+IvoryCoast
+Egypt
+	1
+
+IvoryCoast
+England
+	3
+
+IvoryCoast
+France
+	1
+
+IvoryCoast
+FrenchGuiana
+	1
+
+IvoryCoast
+Ghana
+	1
+
+IvoryCoast
+Haute-Saône
+	1
+
+IvoryCoast
+Italy
+	1
+
+IvoryCoast
+IvoryCoast
+	2
+
+IvoryCoast
+LisboaRegion
+	2
+
+IvoryCoast
+Netherlands
+	2
+
+IvoryCoast
+Norway
+	1
+
+IvoryCoast
+Portugal
+	1
+
+IvoryCoast
+Sergipe
+	1
+
+IvoryCoast
+Spain
+	2
+
+IvoryCoast
+VillafrancaMontesdeOca
+	1
+
+IvoryCoast
+Wales
+	3
+
+KingdomofItaly
+LisboaRegion
+	1
+
+L'HospitaletdeLlobregat
+Spain
+	1
+
+Lancashire
+Scotland
+	1
+
+Liberia
+Brazil
+	1
+
+Limerick
+Scotland
+	1
+
+LisboaRegion
+Allied-occupiedGermany
+	1
+
+LisboaRegion
+Argentina
+	2
+
+LisboaRegion
+Austria
+	1
+
+LisboaRegion
+Belgium
+	1
+
+LisboaRegion
+Brazil
+	3
+
+LisboaRegion
+BuenosAires
+	1
+
+LisboaRegion
+Chile
+	1
+
+LisboaRegion
+Denmark
+	1
+
+LisboaRegion
+EastGermany
+	1
+
+LisboaRegion
+England
+	3
+
+LisboaRegion
+FlensburgGovernment
+	1
+
+LisboaRegion
+France
+	1
+
+LisboaRegion
+FrancoistSpain
+	2
+
+LisboaRegion
+FrenchGuiana
+	1
+
+LisboaRegion
+Germany
+	1
+
+LisboaRegion
+Ghana
+	2
+
+LisboaRegion
+Israel
+	1
+
+LisboaRegion
+Italy
+	6
+
+LisboaRegion
+IvoryCoast
+	2
+
+LisboaRegion
+KingdomofItaly
+	1
+
+LisboaRegion
+Netherlands
+	2
+
+LisboaRegion
+Portugal
+	14
+
+LisboaRegion
+PortugueseAngola
+	1
+
+LisboaRegion
+SantaFe
+	2
+
+LisboaRegion
+Sergipe
+	1
+
+LisboaRegion
+SocialistFederalRepublicofYugoslavia
+	3
+
+LisboaRegion
+SovietUnion
+	2
+
+LisboaRegion
+Spain
+	4
+
+LisboaRegion
+Sweden
+	1
+
+LisboaRegion
+VelikolukskyDistrict
+	1
+
+LisboaRegion
+VillafrancaMontesdeOca
+	1
+
+LisboaRegion
+WestGermany
+	2
+
+LondonBoroughofSutton
+England
+	1
+
+Mali
+Spain
+	1
+
+Maputo
+Argentina
+	2
+
+Maputo
+England
+	3
+
+Maputo
+PontaDelgada(Azores)
+	1
+
+Maputo
+Portugal
+	2
+
+Maputo
+PortugueseMozambique
+	1
+
+Maputo
+SovietUnion
+	1
+
+Mexico
+Brazil
+	1
+
+MinasGerais
+Brazil
+	1
+
+MinasGerais
+Wales
+	1
+
+Montenegro
+England
+	1
+
+Netherlands
+Brazil
+	4
+
+Netherlands
+Bronckhorst
+	1
+
+Netherlands
+England
+	5
+
+Netherlands
+France
+	9
+
+Netherlands
+IvoryCoast
+	2
+
+Netherlands
+LisboaRegion
+	2
+
+Netherlands
+Netherlands
+	6
+
+Netherlands
+Portugal
+	1
+
+Netherlands
+Scotland
+	1
+
+Netherlands
+Spain
+	6
+
+Netherlands
+Uruguay
+	3
+
+Netherlands
+Utrecht(city)
+	1
+
+Netherlands
+Venezuela
+	1
+
+Netherlands
+Wales
+	1
+
+NewSouthWales
+Scotland
+	1
+
+Nigeria
+SantaFe
+	1
+
+NorthernIreland
+Brazil
+	1
+
+NorthernIreland
+Scotland
+	2
+
+Norway
+England
+	1
+
+Norway
+IvoryCoast
+	1
+
+Norway
+Scotland
+	3
+
+NuevaLoja
+England
+	1
+
+Ochsenfurt(Germany)
+WestGermany
+	1
+
+Paraguay
+England
+	1
+
+PauGrande
+Brazil
+	1
+
+Pennsylvania
+SantaFe
+	1
+
+Podgorica
+Portugal
+	1
+
+Poland
+Asturias
+	1
+
+Poland
+Brazil
+	2
+
+Poland
+England
+	1
+
+Poland
+Essonne
+	1
+
+Poland
+France
+	1
+
+Poland
+Poland
+	2
+
+Poland
+Portugal
+	1
+
+Poland
+SchönauimSchwarzwald
+	1
+
+Poland
+SocialistFederalRepublicofYugoslavia
+	1
+
+Poland
+Spain
+	1
+
+Poland
+Switzerland
+	1
+
+Poland
+Užice
+	1
+
+Poland
+WestGermany
+	8
+
+PontaDelgada(Azores)
+Maputo
+	1
+
+Portugal
+Argentina
+	4
+
+Portugal
+Brazil
+	7
+
+Portugal
+EastGermany
+	1
+
+Portugal
+England
+	6
+
+Portugal
+France
+	6
+
+Portugal
+Indonesia
+	1
+
+Portugal
+Italy
+	1
+
+Portugal
+IvoryCoast
+	1
+
+Portugal
+LisboaRegion
+	14
+
+Portugal
+Maputo
+	2
+
+Portugal
+Netherlands
+	1
+
+Portugal
+Podgorica
+	1
+
+Portugal
+Poland
+	1
+
+Portugal
+Portugal
+	24
+
+Portugal
+PortugueseAngola
+	1
+
+Portugal
+SantaFe
+	2
+
+Portugal
+Scotland
+	1
+
+Portugal
+SocialistFederalRepublicofYugoslavia
+	1
+
+Portugal
+SovietUnion
+	1
+
+Portugal
+Spain
+	6
+
+Portugal
+SãoPaulo
+	1
+
+Portugal
+Uruguay
+	1
+
+Portugal
+Wales
+	2
+
+Portugal
+WestGermany
+	3
+
+PortugueseAngola
+LisboaRegion
+	1
+
+PortugueseAngola
+Portugal
+	1
+
+PortugueseMozambique
+England
+	1
+
+PortugueseMozambique
+Maputo
+	1
+
+PortugueseMozambique
+Scotland
+	1
+
+Powys
+Wales
+	1
+
+Russia
+WestGermany
+	1
+
+SFRYugoslavia
+Spain
+	1
+
+SFRYugoslavia
+WestGermany
+	1
+
+SaintPeterPort
+Spain
+	1
+
+SantaFe
+Allied-occupiedGermany
+	1
+
+SantaFe
+Argentina
+	5
+
+SantaFe
+BasqueCountry(autonomouscommunity)
+	1
+
+SantaFe
+Brazil
+	10
+
+SantaFe
+BuenosAires
+	2
+
+SantaFe
+BuenosAiresprovince
+	1
+
+SantaFe
+Czechoslovakia
+	1
+
+SantaFe
+England
+	4
+
+SantaFe
+France
+	7
+
+SantaFe
+Germany
+	2
+
+SantaFe
+Italy
+	1
+
+SantaFe
+LisboaRegion
+	2
+
+SantaFe
+Nigeria
+	1
+
+SantaFe
+Pennsylvania
+	1
+
+SantaFe
+Portugal
+	2
+
+SantaFe
+SantaFe
+	2
+
+SantaFe
+SantaFeProvince
+	1
+
+SantaFe
+Spain
+	16
+
+SantaFe
+Sweden
+	1
+
+SantaFe
+TrelawnyParish
+	1
+
+SantaFe
+Uruguay
+	2
+
+SantaFe
+Utrecht(city)
+	1
+
+SantaFe
+WestGermany
+	2
+
+SantaFeProvince
+SantaFe
+	1
+
+Saxony-Anhalt
+WestGermany
+	1
+
+SchönauimSchwarzwald
+Poland
+	1
+
+Scotland
+BuenosAires
+	1
+
+Scotland
+Cameroon
+	1
+
+Scotland
+Cork(city)
+	1
+
+Scotland
+CountyCork
+	1
+
+Scotland
+England
+	30
+
+Scotland
+EntreRíos
+	1
+
+Scotland
+France
+	5
+
+Scotland
+GladsaxeMunicipality
+	1
+
+Scotland
+India
+	1
+
+Scotland
+Lancashire
+	1
+
+Scotland
+Limerick
+	1
+
+Scotland
+Netherlands
+	1
+
+Scotland
+NewSouthWales
+	1
+
+Scotland
+NorthernIreland
+	2
+
+Scotland
+Norway
+	3
+
+Scotland
+Portugal
+	1
+
+Scotland
+PortugueseMozambique
+	1
+
+Scotland
+Scotland
+	30
+
+Scotland
+Senegal
+	1
+
+Scotland
+Spain
+	2
+
+Scotland
+TyneandWear
+	1
+
+Scotland
+UK
+	1
+
+Scotland
+UkrainianSovietSocialistRepublic
+	1
+
+Scotland
+Uruguay
+	1
+
+Scotland
+Užice
+	1
+
+Scotland
+Wales
+	2
+
+Scotland
+WestGermany
+	1
+
+Seine-Maritime
+France
+	1
+
+Senegal
+France
+	3
+
+Senegal
+Scotland
+	1
+
+Senegal
+Uruguay
+	1
+
+Sergipe
+IvoryCoast
+	1
+
+Sergipe
+LisboaRegion
+	1
+
+SocialistFederalRepublicofYugoslavia
+France
+	1
+
+SocialistFederalRepublicofYugoslavia
+LisboaRegion
+	3
+
+SocialistFederalRepublicofYugoslavia
+Poland
+	1
+
+SocialistFederalRepublicofYugoslavia
+Portugal
+	1
+
+SocialistFederalRepublicofYugoslavia
+Spain
+	1
+
+SocialistFederalRepublicofYugoslavia
+Uruguay
+	1
+
+SovietUnion
+Brazil
+	1
+
+SovietUnion
+England
+	1
+
+SovietUnion
+LisboaRegion
+	2
+
+SovietUnion
+Maputo
+	1
+
+SovietUnion
+Portugal
+	1
+
+SovietUnion
+WestGermany
+	1
+
+Spain
+Argentina
+	2
+
+Spain
+Brazil
+	2
+
+Spain
+England
+	6
+
+Spain
+Ethiopia
+	1
+
+Spain
+France
+	2
+
+Spain
+FrancoistSpain
+	3
+
+Spain
+Germany
+	1
+
+Spain
+Italy
+	4
+
+Spain
+IvoryCoast
+	2
+
+Spain
+L'HospitaletdeLlobregat
+	1
+
+Spain
+LisboaRegion
+	4
+
+Spain
+Mali
+	1
+
+Spain
+Netherlands
+	6
+
+Spain
+Poland
+	1
+
+Spain
+Portugal
+	6
+
+Spain
+SFRYugoslavia
+	1
+
+Spain
+SaintPeterPort
+	1
+
+Spain
+SantaFe
+	16
+
+Spain
+Scotland
+	2
+
+Spain
+SocialistFederalRepublicofYugoslavia
+	1
+
+Spain
+Spain
+	44
+
+Spain
+Switzerland
+	1
+
+Spain
+Uruguay
+	2
+
+Spain
+Wales
+	2
+
+Spain
+WestGermany
+	4
+
+Suriname(KingdomoftheNetherlands)
+France
+	1
+
+Sweden
+Brazil
+	1
+
+Sweden
+England
+	2
+
+Sweden
+LisboaRegion
+	1
+
+Sweden
+SantaFe
+	1
+
+Switzerland
+Argentina
+	1
+
+Switzerland
+Poland
+	1
+
+Switzerland
+Spain
+	1
+
+Switzerland
+WestGermany
+	1
+
+SãoPaulo(city)
+Brazil
+	1
+
+SãoPaulo
+Brazil
+	1
+
+SãoPaulo
+Portugal
+	1
+
+TrelawnyParish
+SantaFe
+	1
+
+TrelawnyParish
+WestGermany
+	1
+
+TyneandWear
+Scotland
+	1
+
+U.S.
+Brazil
+	1
+
+UK
+Scotland
+	1
+
+UK
+Wales
+	1
+
+UK
+WestGermany
+	2
+
+UkrainianSovietSocialistRepublic
+England
+	1
+
+UkrainianSovietSocialistRepublic
+France
+	1
+
+UkrainianSovietSocialistRepublic
+Scotland
+	1
+
+UnitedKingdom
+Wales
+	1
+
+UnitedKingdom
+WestGermany
+	2
+
+UnitedStates
+England
+	2
+
+UnitedStates
+France
+	1
+
+Uruguay
+Belgium
+	1
+
+Uruguay
+Bronckhorst
+	1
+
+Uruguay
+England
+	3
+
+Uruguay
+France
+	4
+
+Uruguay
+Ghana
+	1
+
+Uruguay
+GreaterAccraRegion
+	1
+
+Uruguay
+Italy
+	1
+
+Uruguay
+Netherlands
+	3
+
+Uruguay
+Portugal
+	1
+
+Uruguay
+SantaFe
+	2
+
+Uruguay
+Scotland
+	1
+
+Uruguay
+Senegal
+	1
+
+Uruguay
+SocialistFederalRepublicofYugoslavia
+	1
+
+Uruguay
+Spain
+	2
+
+Uruguay
+Uruguay
+	8
+
+Utrecht(city)
+Netherlands
+	1
+
+Utrecht(city)
+SantaFe
+	1
+
+Užice
+England
+	1
+
+Užice
+Poland
+	1
+
+Užice
+Scotland
+	1
+
+VelikolukskyDistrict
+LisboaRegion
+	1
+
+Venezuela
+Netherlands
+	1
+
+VillafrancaMontesdeOca
+IvoryCoast
+	1
+
+VillafrancaMontesdeOca
+LisboaRegion
+	1
+
+VillafrancaMontesdeOca
+WestGermany
+	1
+
+Wales
+Argentina
+	1
+
+Wales
+England
+	3
+
+Wales
+France
+	1
+
+Wales
+Italy
+	2
+
+Wales
+IvoryCoast
+	3
+
+Wales
+MinasGerais
+	1
+
+Wales
+Netherlands
+	1
+
+Wales
+Portugal
+	2
+
+Wales
+Powys
+	1
+
+Wales
+Scotland
+	2
+
+Wales
+Spain
+	2
+
+Wales
+UK
+	1
+
+Wales
+UnitedKingdom
+	1
+
+Wales
+Wales
+	8
+
+Wales
+WestGermany
+	1
+
+WestGermany
+Argentina
+	1
+
+WestGermany
+Australia
+	1
+
+WestGermany
+Austria
+	3
+
+WestGermany
+Brazil
+	5
+
+WestGermany
+California
+	1
+
+WestGermany
+Chemnitz
+	1
+
+WestGermany
+Coimbra(Portugal)
+	1
+
+WestGermany
+Czechoslovakia
+	1
+
+WestGermany
+EMPTY_STR
+	4
+
+WestGermany
+England
+	2
+
+WestGermany
+Finland
+	3
+
+WestGermany
+France
+	8
+
+WestGermany
+Germany
+	4
+
+WestGermany
+India
+	1
+
+WestGermany
+Italy
+	2
+
+WestGermany
+LisboaRegion
+	2
+
+WestGermany
+Ochsenfurt(Germany)
+	1
+
+WestGermany
+Poland
+	8
+
+WestGermany
+Portugal
+	3
+
+WestGermany
+Russia
+	1
+
+WestGermany
+SFRYugoslavia
+	1
+
+WestGermany
+SantaFe
+	2
+
+WestGermany
+Saxony-Anhalt
+	1
+
+WestGermany
+Scotland
+	1
+
+WestGermany
+SovietUnion
+	1
+
+WestGermany
+Spain
+	4
+
+WestGermany
+Switzerland
+	1
+
+WestGermany
+TrelawnyParish
+	1
+
+WestGermany
+UK
+	2
+
+WestGermany
+UnitedKingdom
+	2
+
+WestGermany
+VillafrancaMontesdeOca
+	1
+
+WestGermany
+Wales
+	1
+
+WestGermany
+WestGermany
+	28
+
+WestGermany
+WestGermany{{InfoboxF1driver
+	1
+
+WestGermany
+WesternAustralia
+	1
+
+WestGermany{{InfoboxF1driver
+WestGermany
+	1
+
+WesternAustralia
+WestGermany
+	1
+
+YamanashiPrefecture
+Brazil
+	1
+
+YamanashiPrefecture
+France
+	1
+
+{{flagicon
+Brazil
+	1
+
+ 
+Lista personas:
+[{'nombre': 'Aaron Ramsey', 'fecha': '1990-12-26', 'pais': 'Wales'}, {'nombre': 'Abdul Kader Ke\xc3\xafta', 'fecha': '1981-08-06', 'pais': 'IvoryCoast'}, {'nombre': 'Adriano Galliani', 'fecha': '1944-07-30', 'pais': '{{flagicon'}, {'nombre': 'Alain Perrin', 'fecha': '1956-10-07', 'pais': 'Haute-Sa\xc3\xb4ne'}, {'nombre': 'Alan Hansen', 'fecha': '1955-06-13', 'pais': 'Scotland'}, {'nombre': 'Alan Shearer', 'fecha': '1970-08-13', 'pais': 'England'}, {'nombre': 'Alan Wiley', 'fecha': '1960-05-27', 'pais': 'England'}, {'nombre': 'Albert Luque', 'fecha': '1978-03-11', 'pais': 'Spain'}, {'nombre': 'Alberto Ascari', 'fecha': '1918-07-13', 'pais': 'Italy'}, {'nombre': 'Aldo Duscher', 'fecha': '1979-03-22', 'pais': 'Argentina'}, {'nombre': 'Alejandro Sabella', 'fecha': '1954-11-05', 'pais': 'Argentina'}, {'nombre': 'Alessio Cerci', 'fecha': '1987-07-23', 'pais': 'Italy'}, {'nombre': 'Alex Ferguson', 'fecha': '1941-12-31', 'pais': 'Scotland'}, {'nombre': 'Alex McLeish', 'fecha': '1959-01-21', 'pais': 'Scotland'}, {'nombre': 'Alex Stepney', 'fecha': '1942-09-18', 'pais': 'England'}, {'nombre': 'Alexander Frei', 'fecha': '1979-07-15', 'pais': 'Switzerland'}, {'nombre': 'Alexandre Pato', 'fecha': '1989-09-02', 'pais': 'Brazil'}, {'nombre': 'Alfredo Di St\xc3\xa9fano', 'fecha': '1926-07-04', 'pais': 'Argentina'}, {'nombre': 'Anders Frisk', 'fecha': '1963-02-18', 'pais': 'Sweden'}, {'nombre': 'Andrea Pirlo', 'fecha': '1979-05-19', 'pais': 'Italy'}, {'nombre': 'Andrei Kanchelskis', 'fecha': '1969-01-23', 'pais': 'UkrainianSovietSocialistRepublic'}, {'nombre': 'Andriy Shevchenko', 'fecha': '1976-09-29', 'pais': 'SovietUnion'}, {'nombre': 'Andr\xc3\xa9 Sch\xc3\xbcrrle', 'fecha': '1990-11-06', 'pais': 'Germany'}, {'nombre': 'Andr\xc3\xa9 Villas-Boas', 'fecha': '1977-10-17', 'pais': 'Portugal'}, {'nombre': 'Andr\xc3\xa9-Pierre Gignac', 'fecha': '1985-12-05', 'pais': 'France'}, {'nombre': 'Andr\xc3\xa9s Iniesta', 'fecha': '1984-05-11', 'pais': 'Spain'}, {'nombre': 'Andy Carroll', 'fecha': '1989-01-06', 'pais': 'England'}, {'nombre': 'Andy Roxburgh', 'fecha': '1943-08-05', 'pais': 'Scotland'}, {'nombre': 'Antonio Valencia', 'fecha': '1985-08-04', 'pais': 'NuevaLoja'}, {'nombre': 'Archie Knox', 'fecha': '1947-05-01', 'pais': 'Scotland'}, {'nombre': 'Arjen Robben', 'fecha': '1984-01-23', 'pais': 'Netherlands'}, {'nombre': 'Ars\xc3\xa8ne Wenger', 'fecha': '1949-10-22', 'pais': 'France'}, {'nombre': 'Asamoah Gyan', 'fecha': '1985-11-22', 'pais': 'GreaterAccraRegion'}, {'nombre': 'Ashley Cole', 'fecha': '1980-12-20', 'pais': 'England'}, {'nombre': 'Ashley Young', 'fecha': '1985-07-09', 'pais': 'England'}, {'nombre': 'Avram Grant', 'fecha': '1955-02-06', 'pais': 'Israel'}, {'nombre': 'Aymor\xc3\xa9 Moreira', 'fecha': '1912-04-24', 'pais': 'Brazil'}, {'nombre': 'Ayrton Senna', 'fecha': '1960-03-21', 'pais': 'Brazil'}, {'nombre': 'Baltemar Brito', 'fecha': '1952-01-09', 'pais': 'Brazil'}, {'nombre': 'Bastian Schweinsteiger', 'fecha': '1984-08-01', 'pais': 'WestGermany'}, {'nombre': 'Benedikt H\xc3\xb6wedes', 'fecha': '1988-02-29', 'pais': 'WestGermany'}, {'nombre': 'Beno\xc3\xaet Assou-Ekotto', 'fecha': '1984-03-24', 'pais': 'France'}, {'nombre': 'Bla\xc5\xbe Sli\xc5\xa1kovi\xc4\x87', 'fecha': '1959-05-30', 'pais': 'SocialistFederalRepublicofYugoslavia'}, {'nombre': 'Bobby Charlton', 'fecha': '1937-10-11', 'pais': 'England'}, {'nombre': 'Bobby Robson', 'fecha': '1933-02-18', 'pais': 'England'}, {'nombre': 'Bojan Krki\xc4\x87', 'fecha': '1990-08-28', 'pais': 'Spain'}, {'nombre': 'Branislav Ivanovi\xc4\x87', 'fecha': '1984-02-22', 'pais': 'SocialistFederalRepublicofYugoslavia'}, {'nombre': 'Brian Flynn', 'fecha': '1955-10-12', 'pais': 'UK'}, {'nombre': 'Brian Kidd', 'fecha': '1949-05-29', 'pais': 'England'}, {'nombre': 'Brian McClair', 'fecha': '1963-12-08', 'pais': 'Scotland'}, {'nombre': 'Bruno Cristiano Concei\xc3\xa7\xc3\xa3o Carvalho Santos', 'fecha': '1984-01-17', 'pais': 'Portugal'}, {'nombre': 'Bryan Gunn', 'fecha': '1963-12-22', 'pais': 'Scotland'}, {'nombre': 'Bryan Robson', 'fecha': '1957-01-11', 'pais': 'England'}, {'nombre': 'Carles Puyol', 'fecha': '1978-04-13', 'pais': 'Spain'}, {'nombre': 'Carles Rexach', 'fecha': '1947-01-13', 'pais': 'Spain'}, {'nombre': 'Carlo Ancelotti', 'fecha': '1959-06-10', 'pais': 'Italy'}, {'nombre': 'Carlos Alberto Torres', 'fecha': '1944-07-17', 'pais': 'Brazil'}, {'nombre': 'Carlos Gamarra', 'fecha': '1971-02-17', 'pais': 'Paraguay'}, {'nombre': 'Carlos Pav\xc3\xb3n', 'fecha': '1973-10-09', 'pais': 'Honduras'}, {'nombre': 'Carlos Queiroz', 'fecha': '1953-03-01', 'pais': 'PortugueseMozambique'}, {'nombre': 'Carlos Tevez', 'fecha': '1984-02-05', 'pais': 'BuenosAires'}, {'nombre': 'Caroline Celico', 'fecha': '1987-07-26', 'pais': 'Brazil'}, {'nombre': 'Cesc F\xc3\xa0bregas', 'fecha': '1987-05-04', 'pais': 'Spain'}, {'nombre': 'Charlie Miller', 'fecha': '1976-03-18', 'pais': 'Scotland'}, {'nombre': 'Chaz Davies', 'fecha': '1987-02-10', 'pais': 'Powys'}, {'nombre': 'Chris Pike', 'fecha': '1961-10-19', 'pais': 'Wales'}, {'nombre': 'Christian Horner', 'fecha': '1973-11-16', 'pais': 'UnitedKingdom'}, {'nombre': 'Christophe Dugarry', 'fecha': '1972-03-24', 'pais': 'France'}, {'nombre': 'Claudia Schiffer', 'fecha': '1970-08-25', 'pais': 'WestGermany'}, {'nombre': 'Claudio Ranieri', 'fecha': '1951-10-20', 'pais': 'Italy'}, {'nombre': 'Cliff Bastin', 'fecha': '1912-03-14', 'pais': 'England'}, {'nombre': 'Coleen Rooney', 'fecha': '1986-04-03', 'pais': 'England'}, {'nombre': 'Cristiano Ronaldo', 'fecha': '1985-02-05', 'pais': 'Portugal'}, {'nombre': 'Dani Alves', 'fecha': '1983-05-06', 'pais': 'Brazil'}, {'nombre': 'Daniel Jarque', 'fecha': '1983-01-01', 'pais': 'Spain'}, {'nombre': 'Daniel Parejo', 'fecha': '1989-04-16', 'pais': 'Spain'}, {'nombre': 'Daniel Ricciardo', 'fecha': '1989-07-01', 'pais': 'WesternAustralia'}, {'nombre': 'Daniel Sturridge', 'fecha': '1989-09-01', 'pais': 'England'}, {'nombre': 'Daniil Kvyat', 'fecha': '1994-04-26', 'pais': 'Russia'}, {'nombre': 'Danny Welbeck', 'fecha': '1990-11-26', 'pais': 'England'}, {'nombre': 'Darren Anderton', 'fecha': '1972-03-03', 'pais': 'England'}, {'nombre': 'Darren Ferguson', 'fecha': '1972-02-09', 'pais': 'Scotland'}, {'nombre': 'Dave Halliday', 'fecha': '11-1901-1970', 'pais': 'Scotland'}, {'nombre': 'David Beckham', 'fecha': '1975-05-02', 'pais': 'England'}, {'nombre': 'David Bentley', 'fecha': '1984-08-27', 'pais': 'England'}, {'nombre': 'David Coulthard', 'fecha': '1971-03-27', 'pais': 'UK'}, {'nombre': 'David Dein', 'fecha': '1943-09-07', 'pais': 'EMPTY_STR'}, {'nombre': 'David Moyes', 'fecha': '1963-04-25', 'pais': 'Scotland'}, {'nombre': 'David Silva', 'fecha': '1986-01-08', 'pais': 'Spain'}, {'nombre': 'David Trezeguet', 'fecha': '1977-10-15', 'pais': 'France'}, {'nombre': 'David Villa', 'fecha': '1981-12-03', 'pais': 'Spain'}, {'nombre': 'David de Gea', 'fecha': '1990-11-07', 'pais': 'Spain'}, {'nombre': 'Davide Santon', 'fecha': '1991-01-02', 'pais': 'Italy'}, {'nombre': 'Dax McCarty', 'fecha': '1987-04-30', 'pais': 'UnitedStates'}, {'nombre': 'Deco', 'fecha': '1977-08-27', 'pais': 'Brazil'}, {'nombre': 'Dejan Stankovi\xc4\x87', 'fecha': '1978-09-11', 'pais': 'SocialistFederalRepublicofYugoslavia'}, {'nombre': 'Dennis Bergkamp', 'fecha': '1969-05-10', 'pais': 'Netherlands'}, {'nombre': 'Derlei', 'fecha': '1975-07-14', 'pais': 'Brazil'}, {'nombre': 'Didier Deschamps', 'fecha': '1968-10-15', 'pais': 'France'}, {'nombre': 'Didier Drogba', 'fecha': '1978-03-11', 'pais': 'IvoryCoast'}, {'nombre': 'Diego Costa', 'fecha': '1988-10-07', 'pais': 'Sergipe'}, {'nombre': 'Diego Forl\xc3\xa1n', 'fecha': '1979-05-19', 'pais': 'Uruguay'}, {'nombre': 'Diego Maradona', 'fecha': '1960-10-30', 'pais': 'BuenosAiresprovince'}, {'nombre': 'Diego Simeone', 'fecha': '1970-04-28', 'pais': 'Argentina'}, {'nombre': 'Dietrich Mateschitz', 'fecha': '1944-05-20', 'pais': 'Austria'}, {'nombre': 'Dion Dublin', 'fecha': '1969-04-22', 'pais': 'England'}, {'nombre': 'Dirk Kuyt', 'fecha': '1980-07-22', 'pais': 'Netherlands'}, {'nombre': 'Dirk Nowitzki', 'fecha': '1978-06-19', 'pais': 'WestGermany'}, {'nombre': 'Djalma Santos', 'fecha': '1929-02-27', 'pais': 'Brazil'}, {'nombre': 'Dmitri Alenichev', 'fecha': '1972-10-20', 'pais': 'VelikolukskyDistrict'}, {'nombre': 'Dominic Adiyiah', 'fecha': '1989-11-29', 'pais': 'Ghana'}, {'nombre': 'Dondinho', 'fecha': '2-1917-16', 'pais': 'Brazil'}, {'nombre': 'Dunga', 'fecha': '1963-10-31', 'pais': 'Brazil'}, {'nombre': 'Edgar Davids', 'fecha': '1973-03-13', 'pais': 'Suriname(KingdomoftheNetherlands)'}, {'nombre': 'Edgaras Jankauskas', 'fecha': '1975-03-12', 'pais': 'SovietUnion'}, {'nombre': 'Edinson Cavani', 'fecha': '1987-02-14', 'pais': 'Uruguay'}, {'nombre': 'Eduardo Delani', 'fecha': '1981-11-03', 'pais': 'Brazil'}, {'nombre': 'Elton John', 'fecha': '1947-03-25', 'pais': 'England'}, {'nombre': 'Emanuel Biancucchi', 'fecha': '1988-07-28', 'pais': 'Argentina'}, {'nombre': 'Emmanuel Petit', 'fecha': '1970-09-22', 'pais': 'Seine-Maritime'}, {'nombre': 'Emyr Huws', 'fecha': '1993-09-30', 'pais': 'Wales'}, {'nombre': 'Enzo Francescoli', 'fecha': '1961-11-12', 'pais': 'Uruguay'}, {'nombre': 'Eric Black', 'fecha': '1963-10-01', 'pais': 'Scotland'}, {'nombre': 'Eric Cantona', 'fecha': '1966-05-24', 'pais': 'France'}, {'nombre': 'Eric Djemba-Djemba', 'fecha': '1981-05-04', 'pais': 'Cameroon'}, {'nombre': 'Ernst Happel', 'fecha': '1925-11-29', 'pais': 'Austria'}, {'nombre': 'Essam El-Hadary', 'fecha': '1973-01-15', 'pais': 'Egypt'}, {'nombre': 'Eus\xc3\xa9bio', 'fecha': '1942-01-25', 'pais': 'Maputo'}, {'nombre': 'Fabien Barthez', 'fecha': '1971-06-28', 'pais': 'France'}, {'nombre': 'Fabio Cannavaro', 'fecha': '1973-09-13', 'pais': 'Italy'}, {'nombre': 'Fabio Capello', 'fecha': '1946-06-18', 'pais': 'Italy'}, {'nombre': 'Federico Macheda', 'fecha': '1991-08-22', 'pais': 'Italy'}, {'nombre': 'Felipe Massa', 'fecha': '1981-04-25', 'pais': 'Brazil'}, {'nombre': 'Fernando Alonso', 'fecha': '1981-07-29', 'pais': 'Spain'}, {'nombre': 'Fernando Couto', 'fecha': '1969-08-02', 'pais': 'Portugal'}, {'nombre': 'Fernando Llorente', 'fecha': '1985-02-26', 'pais': 'Spain'}, {'nombre': 'Fernando Torres', 'fecha': '1984-03-20', 'pais': 'Spain'}, {'nombre': 'Filipe Albuquerque', 'fecha': '1985-06-13', 'pais': 'Coimbra(Portugal)'}, {'nombre': 'Florent Malouda', 'fecha': '1980-06-13', 'pais': 'FrenchGuiana'}, {'nombre': 'Florentino P\xc3\xa9rez', 'fecha': '1947-03-08', 'pais': 'FrancoistSpain'}, {'nombre': 'Francesco Totti', 'fecha': '1976-09-27', 'pais': 'Italy'}, {'nombre': 'Francisco Gento', 'fecha': '1933-10-21', 'pais': 'Spain'}, {'nombre': 'Franck Rib\xc3\xa9ry', 'fecha': '1983-04-07', 'pais': 'France'}, {'nombre': 'Frank Arnesen', 'fecha': '1956-09-30', 'pais': 'Denmark'}, {'nombre': 'Frank Lampard', 'fecha': '1978-06-20', 'pais': 'England'}, {'nombre': 'Frank McGarvey', 'fecha': '1956-03-17', 'pais': 'Scotland'}, {'nombre': 'Frank Rijkaard', 'fecha': '1962-09-30', 'pais': 'Netherlands'}, {'nombre': 'Frank Rost', 'fecha': '1973-06-30', 'pais': 'Chemnitz'}, {'nombre': 'Franz Beckenbauer', 'fecha': '1945-09-11', 'pais': 'Germany'}, {'nombre': 'Gabriel Heinze', 'fecha': '1978-04-19', 'pais': 'EntreR\xc3\xados'}, {'nombre': 'Gareth Bale', 'fecha': '1989-07-16', 'pais': 'Wales'}, {'nombre': 'Garrincha', 'fecha': '1933-10-28', 'pais': 'PauGrande'}, {'nombre': 'Gary Neville', 'fecha': '1975-02-18', 'pais': 'England'}, {'nombre': 'Gary Pallister', 'fecha': '1965-06-30', 'pais': 'England'}, {'nombre': 'Gary Speed', 'fecha': '1969-09-08', 'pais': 'Wales'}, {'nombre': 'Gemma Atkinson', 'fecha': '1984-11-16', 'pais': 'England'}, {'nombre': 'George Weah', 'fecha': '1966-10-01', 'pais': 'Liberia'}, {'nombre': 'Gerard Piqu\xc3\xa9', 'fecha': '1987-02-02', 'pais': 'Spain'}, {'nombre': 'Gerd M\xc3\xbcller', 'fecha': '1945-11-03', 'pais': 'Allied-occupiedGermany'}, {'nombre': 'Gerhard Berger', 'fecha': '1959-08-27', 'pais': 'Austria'}, {'nombre': 'Gianluigi Buffon', 'fecha': '1978-01-28', 'pais': 'Italy'}, {'nombre': 'Giorgio Chiellini', 'fecha': '1984-08-14', 'pais': 'Italy'}, {'nombre': 'Giovanni Trapattoni', 'fecha': '1939-03-17', 'pais': 'KingdomofItaly'}, {'nombre': 'Giovanni van Bronckhorst', 'fecha': '1975-02-05', 'pais': 'Netherlands'}, {'nombre': 'Giuseppe Baresi', 'fecha': '1958-02-07', 'pais': 'Italy'}, {'nombre': 'Gonzalo Higua\xc3\xadn', 'fecha': '1987-12-10', 'pais': 'France'}, {'nombre': 'Goran Ivani\xc5\xa1evi\xc4\x87', 'fecha': '1971-09-13', 'pais': 'Croatia'}, {'nombre': 'Gordon Banks', 'fecha': '1937-12-30', 'pais': 'England'}, {'nombre': 'Gordon Strachan', 'fecha': '1957-02-09', 'pais': 'Scotland'}, {'nombre': 'Graham Stringer', 'fecha': '1950-02-17', 'pais': 'England'}, {'nombre': 'Guus Hiddink', 'fecha': '1946-11-08', 'pais': 'Netherlands'}, {'nombre': 'G\xc3\xa9rson', 'fecha': '1941-01-11', 'pais': 'Brazil'}, {'nombre': 'Haile Gebrselassie', 'fecha': '1973-04-18', 'pais': 'Ethiopia'}, {'nombre': 'Hans-J\xc3\xb6rg Butt', 'fecha': '1974-05-28', 'pais': 'WestGermany'}, {'nombre': 'Hatem Ben Arfa', 'fecha': '1987-03-07', 'pais': 'France'}, {'nombre': 'Heikki Kovalainen', 'fecha': '1981-10-19', 'pais': 'Finland'}, {'nombre': 'Heiko Westermann', 'fecha': '1983-08-14', 'pais': 'WestGermany'}, {'nombre': 'Helmut Marko', 'fecha': '1943-04-27', 'pais': 'Austria'}, {'nombre': 'Henk ten Cate', 'fecha': '1954-12-09', 'pais': 'Netherlands'}, {'nombre': 'Henning Berg', 'fecha': '1969-09-01', 'pais': 'Norway'}, {'nombre': 'Hern\xc3\xa1n Crespo', 'fecha': '1975-07-05', 'pais': 'BuenosAires'}, {'nombre': 'Heurelho Gomes', 'fecha': '1981-02-15', 'pais': 'MinasGerais'}, {'nombre': 'Hidetoshi Nakata', 'fecha': '1977-01-22', 'pais': 'YamanashiPrefecture'}, {'nombre': 'Horacio Elizondo', 'fecha': '1963-11-04', 'pais': 'Argentina'}, {'nombre': 'Howard Webb', 'fecha': '1971-07-14', 'pais': 'England'}, {'nombre': 'Hugo Lloris', 'fecha': '1986-12-26', 'pais': 'France'}, {'nombre': 'Hunter Davies', 'fecha': '1936-01-07', 'pais': 'Scotland'}, {'nombre': 'H\xc3\xa9lder Postiga', 'fecha': '1982-08-02', 'pais': 'Portugal'}, {'nombre': 'Ian Wright', 'fecha': '1963-11-03', 'pais': 'England'}, {'nombre': 'Iker Casillas', 'fecha': '1981-05-20', 'pais': 'Spain'}, {'nombre': 'Ivan Rakiti\xc4\x87', 'fecha': '1988-03-10', 'pais': 'Switzerland'}, {'nombre': 'Ivor Broadis', 'fecha': '1922-12-18', 'pais': 'England'}, {'nombre': 'Iv\xc3\xa1n Zamorano', 'fecha': '1967-01-18', 'pais': 'Chile'}, {'nombre': 'J. P. McManus', 'fecha': '1951-03-10', 'pais': 'Limerick'}, {'nombre': 'Jack Balmer', 'fecha': '1916-02-06', 'pais': 'England'}, {'nombre': 'Jack Walker', 'fecha': '1929-05-19', 'pais': 'England'}, {'nombre': 'Jack Wilshere', 'fecha': '1992-01-01', 'pais': 'England'}, {'nombre': 'Javier Mascherano', 'fecha': '1984-06-08', 'pais': 'SantaFe'}, {'nombre': 'Javier Zanetti', 'fecha': '1973-08-10', 'pais': 'Argentina'}, {'nombre': 'Jean Fernandez', 'fecha': '1954-10-08', 'pais': 'FrenchAlgeria'}, {'nombre': 'Jean-Philippe Toussaint', 'fecha': '1957-11-29', 'pais': 'Belgium'}, {'nombre': 'Jenson Button', 'fecha': '1980-01-19', 'pais': 'England'}, {'nombre': 'Jermain Defoe', 'fecha': '1982-10-07', 'pais': 'England'}, {'nombre': 'Jesualdo Ferreira', 'fecha': '1946-05-24', 'pais': 'Portugal'}, {'nombre': 'Jes\xc3\xa9', 'fecha': '1993-02-26', 'pais': 'Spain'}, {'nombre': 'Jim Leighton', 'fecha': '1958-07-24', 'pais': 'Scotland'}, {'nombre': 'Joachim L\xc3\xb6w', 'fecha': '1960-02-03', 'pais': 'Sch\xc3\xb6nauimSchwarzwald'}, {'nombre': 'Joan Laporta', 'fecha': '1962-06-29', 'pais': 'Spain'}, {'nombre': 'Jochen Kientz', 'fecha': '1972-09-17', 'pais': 'WestGermany'}, {'nombre': 'Jock Stein', 'fecha': '1922-10-05', 'pais': 'Scotland'}, {'nombre': 'Johan Cruyff', 'fecha': '1947-04-25', 'pais': 'Netherlands'}, {'nombre': 'Johan Vonlanthen', 'fecha': '1986-02-01', 'pais': 'Colombia'}, {'nombre': 'John Heitinga', 'fecha': '1983-11-15', 'pais': 'Netherlands'}, {'nombre': 'John Magnier', 'fecha': '1948-02-10', 'pais': 'CountyCork'}, {'nombre': 'John Terry', 'fecha': '1980-12-07', 'pais': 'England'}, {'nombre': 'Jordi Alba', 'fecha': '1989-03-21', 'pais': "L'HospitaletdeLlobregat"}, {'nombre': 'Jorge Andrade', 'fecha': '1978-04-09', 'pais': 'Portugal'}, {'nombre': 'Jorge Campos', 'fecha': '1966-10-15', 'pais': 'Mexico'}, {'nombre': 'Jorge Costa', 'fecha': '1971-10-14', 'pais': 'Portugal'}, {'nombre': 'Josep Llu\xc3\xads N\xc3\xba\xc3\xb1ez', 'fecha': '1931-09-07', 'pais': 'BasqueCountry(autonomouscommunity)'}, {'nombre': 'Jos\xc3\xa9 Antonio Reyes', 'fecha': '1983-09-01', 'pais': 'Spain'}, {'nombre': 'Jos\xc3\xa9 Mar\xc3\xada Olaz\xc3\xa1bal', 'fecha': '1966-02-05', 'pais': 'Spain'}, {'nombre': 'Jos\xc3\xa9 Mourinho', 'fecha': '1963-01-26', 'pais': 'LisboaRegion'}, {'nombre': 'Jos\xc3\xa9 Salom\xc3\xb3n Rond\xc3\xb3n', 'fecha': '1989-09-16', 'pais': 'Venezuela'}, {'nombre': 'Jo\xc3\xa3o Havelange', 'fecha': '1916-05-08', 'pais': 'FirstBrazilianRepublic'}, {'nombre': 'Jo\xc3\xa3o Morais', 'fecha': '1935-03-06', 'pais': 'Portugal'}, {'nombre': 'Jo\xc3\xa3o Moutinho', 'fecha': '1986-09-08', 'pais': 'Portugal'}, {'nombre': 'Juan Mata', 'fecha': '1988-04-28', 'pais': 'VillafrancaMontesdeOca'}, {'nombre': 'Juan Pablo \xc3\x81ngel', 'fecha': '1975-10-24', 'pais': 'Colombia'}, {'nombre': 'Jules Bianchi', 'fecha': '1989-08-03', 'pais': 'France'}, {'nombre': 'Jupp Heynckes', 'fecha': '1945-05-09', 'pais': 'FlensburgGovernment'}, {'nombre': 'Just Fontaine', 'fecha': '1933-08-18', 'pais': 'FrenchprotectorateinMorocco'}, {'nombre': 'J\xc3\xbcrgen Klinsmann', 'fecha': '1964-07-30', 'pais': 'WestGermany'}, {'nombre': 'Kak\xc3\xa1', 'fecha': '1982-04-22', 'pais': 'Brazil'}, {'nombre': 'Karim Benzema', 'fecha': '1987-12-19', 'pais': 'France'}, {'nombre': 'Keith Gillespie', 'fecha': '1975-02-18', 'pais': 'NorthernIreland'}, {'nombre': 'Keith Hackett', 'fecha': '1944-06-22', 'pais': 'England'}, {'nombre': 'Kenny Dalglish', 'fecha': '1951-03-04', 'pais': 'Scotland'}, {'nombre': 'Kevin Keegan', 'fecha': '1951-02-14', 'pais': 'England'}, {'nombre': 'Kimi R\xc3\xa4ikk\xc3\xb6nen', 'fecha': '1979-10-17', 'pais': 'Finland'}, {'nombre': 'Klaas-Jan Huntelaar', 'fecha': '1983-08-12', 'pais': 'Bronckhorst'}, {'nombre': 'Kobe Bryant', 'fecha': '1978-08-23', 'pais': 'Pennsylvania'}, {'nombre': 'Kolo Tour\xc3\xa9', 'fecha': '1981-03-19', 'pais': 'IvoryCoast'}, {'nombre': 'Kris Meeke', 'fecha': '1979-07-02', 'pais': 'EMPTY_STR'}, {'nombre': 'Landon Donovan', 'fecha': '1982-03-04', 'pais': 'UnitedStates'}, {'nombre': 'Laurent Blanc', 'fecha': '1965-11-19', 'pais': 'France'}, {'nombre': 'Lee Sharpe', 'fecha': '1971-05-27', 'pais': 'England'}, {'nombre': 'Lev Yashin', 'fecha': '1929-10-22', 'pais': 'SovietUnion'}, {'nombre': 'Lewis Hamilton', 'fecha': '1985-01-07', 'pais': 'UK'}, {'nombre': 'Lilian Thuram', 'fecha': '1972-01-01', 'pais': 'Guadeloupe'}, {'nombre': 'Lionel Messi', 'fecha': '1987-06-24', 'pais': 'SantaFe'}, {'nombre': 'Louis van Gaal', 'fecha': '1951-08-08', 'pais': 'Netherlands'}, {'nombre': 'Luca Toni', 'fecha': '1977-05-26', 'pais': 'Italy'}, {'nombre': 'Luciana Aymar', 'fecha': '1977-08-10', 'pais': 'SantaFeProvince'}, {'nombre': 'Luis Aragon\xc3\xa9s', 'fecha': '1938-07-28', 'pais': 'Spain'}, {'nombre': 'Luis Medina Cantalejo', 'fecha': '1-1964-01', 'pais': 'Spain'}, {'nombre': 'Luis Su\xc3\xa1rez', 'fecha': '1987-01-24', 'pais': 'Uruguay'}, {'nombre': 'Luis\xc3\xa3o', 'fecha': '1981-02-13', 'pais': 'S\xc3\xa3oPaulo'}, {'nombre': 'Luiz Adriano', 'fecha': '1987-04-12', 'pais': 'Brazil'}, {'nombre': 'Luiz Gustavo', 'fecha': '1987-07-23', 'pais': 'Brazil'}, {'nombre': 'Luka Modri\xc4\x87', 'fecha': '1985-09-09', 'pais': 'SFRYugoslavia'}, {'nombre': 'Lukas Podolski', 'fecha': '1985-06-04', 'pais': 'Poland'}, {'nombre': 'Lu\xc3\xads Figo', 'fecha': '1972-11-04', 'pais': 'Portugal'}, {'nombre': 'Maarten Stekelenburg', 'fecha': '1982-09-22', 'pais': 'Netherlands'}, {'nombre': 'Mahamadou Diarra', 'fecha': '1981-05-18', 'pais': 'Mali'}, {'nombre': 'Mandy Capristo', 'fecha': '1990-03-21', 'pais': 'Germany'}, {'nombre': 'Maniche', 'fecha': '1977-11-11', 'pais': 'Portugal'}, {'nombre': 'Mano Menezes', 'fecha': '1962-06-11', 'pais': 'Brazil'}, {'nombre': 'Manuel Neuer', 'fecha': '1986-03-27', 'pais': 'WestGermany'}, {'nombre': 'Manuel Pellegrini', 'fecha': '1953-09-16', 'pais': 'Chile'}, {'nombre': 'Marat Izmailov', 'fecha': '1982-09-21', 'pais': 'SovietUnion'}, {'nombre': 'Marcel Koller', 'fecha': '1960-11-11', 'pais': 'Switzerland'}, {'nombre': 'Marcelo Saragosa', 'fecha': '1982-01-22', 'pais': 'Brazil'}, {'nombre': 'Marco Materazzi', 'fecha': '1973-08-19', 'pais': 'Italy'}, {'nombre': 'Marco van Basten', 'fecha': '1964-10-31', 'pais': 'Utrecht(city)'}, {'nombre': 'Marcus Bent', 'fecha': '1978-05-19', 'pais': 'England'}, {'nombre': 'Marcus Gr\xc3\xb6nholm', 'fecha': '1968-02-05', 'pais': 'EMPTY_STR'}, {'nombre': 'Mario Balotelli', 'fecha': '1990-08-12', 'pais': 'Italy'}, {'nombre': 'Mario G\xc3\xb3mez', 'fecha': '1985-07-10', 'pais': 'WestGermany'}, {'nombre': 'Mario G\xc3\xb6tze', 'fecha': '1992-06-03', 'pais': 'Germany'}, {'nombre': 'Mario Mand\xc5\xbeuki\xc4\x87', 'fecha': '1986-05-21', 'pais': 'SFRYugoslavia'}, {'nombre': 'Mark Bosnich', 'fecha': '1972-01-13', 'pais': 'NewSouthWales'}, {'nombre': 'Mark Hughes', 'fecha': '1963-11-01', 'pais': 'Wales'}, {'nombre': 'Mark McGhee', 'fecha': '1957-05-25', 'pais': 'Scotland'}, {'nombre': 'Mark Robins', 'fecha': '1969-12-22', 'pais': 'England'}, {'nombre': 'Mark Webber', 'fecha': '1976-08-27', 'pais': 'Australia'}, {'nombre': 'Marouane Chamakh', 'fecha': '1984-01-10', 'pais': 'France'}, {'nombre': 'Martin Atkinson', 'fecha': '1971-03-31', 'pais': 'England'}, {'nombre': 'Martin Keown', 'fecha': '1966-07-24', 'pais': 'England'}, {'nombre': 'Martunis', 'fecha': '1997-10-10', 'pais': 'Indonesia'}, {'nombre': 'Massimo Ambrosini', 'fecha': '1977-05-29', 'pais': 'Italy'}, {'nombre': 'Mateja Ke\xc5\xbeman', 'fecha': '1979-04-12', 'pais': 'SocialistFederalRepublicofYugoslavia'}, {'nombre': 'Matt Le Tissier', 'fecha': '1968-10-14', 'pais': 'SaintPeterPort'}, {'nombre': 'Maximilian G\xc3\xb6tz', 'fecha': '1986-02-04', 'pais': 'Ochsenfurt(Germany)'}, {'nombre': 'Mesut \xc3\x96zil', 'fecha': '1988-10-15', 'pais': 'WestGermany'}, {'nombre': 'Michael Ammerm\xc3\xbcller', 'fecha': '1986-02-14', 'pais': 'Germany'}, {'nombre': 'Michael Ballack', 'fecha': '1976-09-26', 'pais': 'EastGermany'}, {'nombre': 'Michael Carrick', 'fecha': '1981-07-28', 'pais': 'England'}, {'nombre': 'Michael Essien', 'fecha': '1982-12-03', 'pais': 'Ghana'}, {'nombre': 'Michael Owen', 'fecha': '1979-12-14', 'pais': 'England'}, {'nombre': 'Michael Schumacher', 'fecha': '1969-01-03', 'pais': 'WestGermany'}, {'nombre': 'Michel Goba', 'fecha': '1961-08-08', 'pais': "Coted'Ivoire"}, {'nombre': 'Michel Platini', 'fecha': '1955-06-21', 'pais': 'France'}, {'nombre': 'Mick Harford', 'fecha': '1959-02-12', 'pais': 'TyneandWear'}, {'nombre': 'Miguel Veloso', 'fecha': '1986-05-11', 'pais': 'Portugal'}, {'nombre': 'Migueli', 'fecha': '1951-12-19', 'pais': 'Spain'}, {'nombre': 'Mike Phelan', 'fecha': '1962-09-24', 'pais': 'Lancashire'}, {'nombre': 'Milene Domingues', 'fecha': '1979-06-18', 'pais': 'S\xc3\xa3oPaulo(city)'}, {'nombre': 'Miodrag D\xc5\xbeudovi\xc4\x87', 'fecha': '1979-09-06', 'pais': 'Montenegro'}, {'nombre': 'Miroslav Klose', 'fecha': '1978-06-09', 'pais': 'Poland'}, {'nombre': 'Mounir El Hamdaoui', 'fecha': '1984-07-14', 'pais': 'Netherlands'}, {'nombre': 'M\xc3\xa1rio Coluna', 'fecha': '1935-08-06', 'pais': 'PortugueseMozambique'}, {'nombre': 'Narain Karthikeyan', 'fecha': '1977-01-14', 'pais': 'India'}, {'nombre': 'Neale Cooper', 'fecha': '1963-11-24', 'pais': 'India'}, {'nombre': 'Neil Sullivan', 'fecha': '1970-02-24', 'pais': 'LondonBoroughofSutton'}, {'nombre': 'Neil Webb', 'fecha': '1963-07-30', 'pais': 'England'}, {'nombre': 'Nemanja Vidi\xc4\x87', 'fecha': '1981-10-21', 'pais': 'U\xc5\xbeice'}, {'nombre': 'Nick Heidfeld', 'fecha': '1977-05-10', 'pais': 'WestGermany'}, {'nombre': 'Nicky Butt', 'fecha': '1975-01-21', 'pais': 'England'}, {'nombre': 'Nico H\xc3\xbclkenberg', 'fecha': '1987-08-19', 'pais': 'WestGermany{{InfoboxF1driver'}, {'nombre': 'Nico Rosberg', 'fecha': '1985-06-27', 'pais': 'WestGermany'}, {'nombre': 'Nicolas Anelka', 'fecha': '1979-03-14', 'pais': 'France'}, {'nombre': 'Nigel Mansell', 'fecha': '1953-08-08', 'pais': 'UnitedKingdom'}, {'nombre': 'Nobby Stiles', 'fecha': '1942-05-18', 'pais': 'England'}, {'nombre': 'Norman Whiteside', 'fecha': '1965-05-07', 'pais': 'NorthernIreland'}, {'nombre': 'Nuno Gomes', 'fecha': '1976-07-05', 'pais': 'Portugal'}, {'nombre': 'Nuno Valente', 'fecha': '1974-09-12', 'pais': 'Portugal'}, {'nombre': 'Ole Gunnar Solskj\xc3\xa6r', 'fecha': '1973-02-26', 'pais': 'Norway'}, {'nombre': 'Olivier Giroud', 'fecha': '1986-09-30', 'pais': 'France'}, {'nombre': 'Otman Bakkal', 'fecha': '1985-02-27', 'pais': 'Netherlands'}, {'nombre': 'Ottmar Hitzfeld', 'fecha': '1949-01-12', 'pais': 'Allied-occupiedGermany'}, {'nombre': 'Paolo Maldini', 'fecha': '1968-06-26', 'pais': 'Italy'}, {'nombre': 'Paolo Su\xc3\xa1rez', 'fecha': '1980-06-06', 'pais': 'Uruguay'}, {'nombre': 'Patrice Evra', 'fecha': '1981-05-15', 'pais': 'Senegal'}, {'nombre': 'Patrick Kluivert', 'fecha': '1976-07-01', 'pais': 'Netherlands'}, {'nombre': 'Patrick Vieira', 'fecha': '1976-06-23', 'pais': 'Senegal'}, {'nombre': 'Paul Biedermann', 'fecha': '1986-08-07', 'pais': 'Saxony-Anhalt'}, {'nombre': 'Paul Ince', 'fecha': '1967-10-21', 'pais': 'England'}, {'nombre': 'Paul Lambert', 'fecha': '1969-08-07', 'pais': 'Scotland'}, {'nombre': 'Paul Scholes', 'fecha': '1974-11-16', 'pais': 'GreaterManchester'}, {'nombre': 'Paul di Resta', 'fecha': '1986-04-16', 'pais': 'Scotland'}, {'nombre': 'Pauleta', 'fecha': '1973-04-28', 'pais': 'PontaDelgada(Azores)'}, {'nombre': 'Paulo Bento', 'fecha': '1969-06-20', 'pais': 'Portugal'}, {'nombre': 'Paulo Ferreira', 'fecha': '1979-01-18', 'pais': 'Portugal'}, {'nombre': 'Pedro Emanuel', 'fecha': '1975-02-11', 'pais': 'PortugueseAngola'}, {'nombre': 'Pel\xc3\xa9', 'fecha': '1940-10-23', 'pais': 'Brazil'}, {'nombre': 'Pep Guardiola', 'fecha': '1971-01-18', 'pais': 'Spain'}, {'nombre': 'Per Mertesacker', 'fecha': '1984-09-29', 'pais': 'WestGermany'}, {'nombre': 'Peter Crouch', 'fecha': '1981-01-30', 'pais': 'England'}, {'nombre': 'Peter Schmeichel', 'fecha': '1963-11-18', 'pais': 'GladsaxeMunicipality'}, {'nombre': 'Petter Solberg', 'fecha': '1974-11-18', 'pais': 'EMPTY_STR'}, {'nombre': 'Pierluigi Collina', 'fecha': '1960-02-13', 'pais': 'Italy'}, {'nombre': 'Posh and Becks', 'fecha': '1974-04-17', 'pais': 'EMPTY_STR'}, {'nombre': 'Predrag Mijatovi\xc4\x87', 'fecha': '1969-01-19', 'pais': 'SocialistFederalRepublicofYugoslavia'}, {'nombre': 'Quavas Kirk', 'fecha': '1988-04-13', 'pais': 'UnitedStates'}, {'nombre': 'Rafael Ben\xc3\xadtez', 'fecha': '1960-04-16', 'pais': 'FrancoistSpain'}, {'nombre': 'Rafael Nadal', 'fecha': '1986-06-03', 'pais': 'Spain'}, {'nombre': 'Rafael van der Vaart', 'fecha': '1983-02-11', 'pais': 'Netherlands'}, {'nombre': 'Ram\xc3\xb3n Calder\xc3\xb3n', 'fecha': '1951-05-26', 'pais': 'Spain'}, {'nombre': 'Raymond Domenech', 'fecha': '1952-01-24', 'pais': 'France'}, {'nombre': 'Rebecca Loos', 'fecha': '1977-06-19', 'pais': 'Spain'}, {'nombre': 'Reggie Bush', 'fecha': '1985-03-02', 'pais': 'California'}, {'nombre': 'Ricardo Carvalho', 'fecha': '1978-05-18', 'pais': 'Portugal'}, {'nombre': 'Ricardo Quaresma', 'fecha': '1983-09-26', 'pais': 'Portugal'}, {'nombre': 'Ricardo Teixeira', 'fecha': '1947-06-20', 'pais': 'MinasGerais'}, {'nombre': 'Riccardo Montolivo', 'fecha': '1985-01-18', 'pais': 'Italy'}, {'nombre': 'Rio Ferdinand', 'fecha': '1978-11-07', 'pais': 'UK'}, {'nombre': 'Rivaldo', 'fecha': '1972-04-19', 'pais': 'Brazil'}, {'nombre': 'Robbie Keane', 'fecha': '1980-07-08', 'pais': 'Ireland'}, {'nombre': 'Robert Kubica', 'fecha': '1984-12-07', 'pais': 'Poland'}, {'nombre': 'Robert Pir\xc3\xa8s', 'fecha': '1973-10-29', 'pais': 'France'}, {'nombre': 'Roberto Mancini', 'fecha': '1964-11-27', 'pais': 'Italy'}, {'nombre': 'Robin van Persie', 'fecha': '1983-08-06', 'pais': 'Netherlands'}, {'nombre': 'Robinho', 'fecha': '1984-01-25', 'pais': 'S\xc3\xa3oPaulo'}, {'nombre': 'Rod Laver', 'fecha': '1938-08-09', 'pais': 'Australia'}, {'nombre': 'Romain Grosjean', 'fecha': '1986-04-17', 'pais': 'Switzerland'}, {'nombre': 'Roman Weidenfeller', 'fecha': '1980-08-06', 'pais': 'Germany'}, {'nombre': 'Rom\xc3\xa1rio', 'fecha': '1966-01-29', 'pais': 'Brazil'}, {'nombre': 'Ron Atkinson', 'fecha': '1939-03-18', 'pais': 'England'}, {'nombre': 'Ronaldinho', 'fecha': '1980-03-21', 'pais': 'Brazil'}, {'nombre': 'Ronaldo', 'fecha': '1976-09-18', 'pais': 'Brazil'}, {'nombre': 'Ronny Johnsen', 'fecha': '1969-06-10', 'pais': 'Norway'}, {'nombre': 'Roy Hodgson', 'fecha': '1947-08-09', 'pais': 'England'}, {'nombre': 'Roy Keane', 'fecha': '1971-08-10', 'pais': 'Cork(city)'}, {'nombre': 'Rubens Barrichello', 'fecha': '1972-05-23', 'pais': 'Brazil'}, {'nombre': 'Rui Costa', 'fecha': '1972-03-29', 'pais': 'Portugal'}, {'nombre': 'Rui Faria', 'fecha': '1975-06-14', 'pais': 'Portugal'}, {'nombre': 'Rui Patr\xc3\xadcio', 'fecha': '1988-02-15', 'pais': 'Portugal'}, {'nombre': 'Ruud van Nistelrooy', 'fecha': '1976-07-01', 'pais': 'Netherlands'}, {'nombre': 'Ryan Giggs', 'fecha': '1973-11-29', 'pais': 'Wales'}, {'nombre': 'Sakari Orava', 'fecha': '17-1945-1980', 'pais': 'Finland'}, {'nombre': 'Sam Warburton', 'fecha': '1988-10-05', 'pais': 'UnitedKingdom'}, {'nombre': 'Samir Nasri', 'fecha': '1987-06-26', 'pais': 'France'}, {'nombre': 'Santi Cazorla', 'fecha': '1984-12-13', 'pais': 'Asturias'}, {'nombre': 'Scott Speed', 'fecha': '1983-01-24', 'pais': 'California'}, {'nombre': 'Sebastian Vettel', 'fecha': '1987-07-03', 'pais': 'WestGermany'}, {'nombre': 'Sebasti\xc3\xa1n Coates', 'fecha': '1990-10-07', 'pais': 'Uruguay'}, {'nombre': 'Sergey Bubka', 'fecha': '1963-12-04', 'pais': 'UkrainianSovietSocialistRepublic'}, {'nombre': 'Sergio Batista', 'fecha': '1962-11-09', 'pais': 'Argentina'}, {'nombre': 'Sergio Busquets', 'fecha': '1988-07-16', 'pais': 'Spain'}, {'nombre': 'Shaun Wright-Phillips', 'fecha': '1981-10-25', 'pais': 'England'}, {'nombre': 'Sidney Govou', 'fecha': '1979-07-27', 'pais': 'France'}, {'nombre': 'Silvino Louro', 'fecha': '1959-03-05', 'pais': 'Portugal'}, {'nombre': 'Simon Fuller', 'fecha': '1960-05-17', 'pais': 'Cyprus'}, {'nombre': 'Simon Vuk\xc4\x8devi\xc4\x87', 'fecha': '1986-01-29', 'pais': 'Podgorica'}, {'nombre': 'Steve Bruce', 'fecha': '1960-12-31', 'pais': 'England'}, {'nombre': 'Steve McClaren', 'fecha': '1961-05-03', 'pais': 'England'}, {'nombre': 'Steve McManaman', 'fecha': '1972-02-11', 'pais': 'England'}, {'nombre': 'Steven Gerrard', 'fecha': '1980-05-30', 'pais': 'England'}, {'nombre': 'Sulley Muntari', 'fecha': '1984-08-27', 'pais': 'Ghana'}, {'nombre': 'Sven-G\xc3\xb6ran Eriksson', 'fecha': '1948-02-05', 'pais': 'Sweden'}, {'nombre': 'Sylvester Stallone', 'fecha': '1946-07-06', 'pais': 'U.S.'}, {'nombre': 'S\xc3\xa9bastien Bourdais', 'fecha': '1979-02-28', 'pais': 'France'}, {'nombre': 'Tarcisio Burgnich', 'fecha': '1939-04-25', 'pais': 'Italy'}, {'nombre': 'Teddy Sheringham', 'fecha': '1966-04-02', 'pais': 'England'}, {'nombre': 'Telmo Zarra', 'fecha': '1921-01-20', 'pais': 'Spain'}, {'nombre': 'Terry Byrne', 'fecha': '1966-06-04', 'pais': 'EMPTY_STR'}, {'nombre': 'Theo Walcott', 'fecha': '1989-03-16', 'pais': 'England'}, {'nombre': 'Thiago Alc\xc3\xa2ntara', 'fecha': '1991-04-11', 'pais': 'Italy'}, {'nombre': 'Thibaut Courtois', 'fecha': '1992-05-11', 'pais': 'Belgium'}, {'nombre': 'Thierry Gilardi', 'fecha': '1958-07-26', 'pais': 'France'}, {'nombre': 'Thierry Henry', 'fecha': '1977-08-17', 'pais': 'France'}, {'nombre': 'Thomas M\xc3\xbcller', 'fecha': '1989-09-13', 'pais': 'WestGermany'}, {'nombre': 'Thomas Vermaelen', 'fecha': '1985-11-14', 'pais': 'Belgium'}, {'nombre': 'Tiger Woods', 'fecha': '1975-12-30', 'pais': 'California'}, {'nombre': 'Tim Wiese', 'fecha': '1981-12-17', 'pais': 'WestGermany'}, {'nombre': 'Timo Glock', 'fecha': '1982-03-18', 'pais': 'WestGermany'}, {'nombre': 'Tito Vilanova', 'fecha': '1968-09-17', 'pais': 'Spain'}, {'nombre': 'Tom Henning \xc3\x98vreb\xc3\xb8', 'fecha': '1966-06-26', 'pais': 'Norway'}, {'nombre': 'Tom Thorpe', 'fecha': '1993-01-13', 'pais': 'England'}, {'nombre': 'Tom\xc3\xa1\xc5\xa1 Rosick\xc3\xbd', 'fecha': '1980-10-04', 'pais': 'Czechoslovakia'}, {'nombre': 'Tom\xc3\xa1\xc5\xa1 Ujfalu\xc5\xa1i', 'fecha': '1978-03-24', 'pais': 'Czechoslovakia'}, {'nombre': 'Tony Adams', 'fecha': '1966-10-10', 'pais': 'England'}, {'nombre': 'Tony Parker', 'fecha': '1982-05-17', 'pais': 'Belgium'}, {'nombre': 'Usain Bolt', 'fecha': '1986-08-21', 'pais': 'TrelawnyParish'}, {'nombre': 'Uwe Seeler', 'fecha': '1936-11-05', 'pais': 'Germany'}, {'nombre': 'Valtteri Bottas', 'fecha': '1989-08-28', 'pais': 'Finland'}, {'nombre': 'Vav\xc3\xa1', 'fecha': '1934-11-12', 'pais': 'Brazil'}, {'nombre': 'Vicente Feola', 'fecha': '1909-11-20', 'pais': 'Brazil'}, {'nombre': 'Vicente del Bosque', 'fecha': '1950-12-23', 'pais': 'FrancoistSpain'}, {'nombre': 'Victoria Beckham', 'fecha': '1974-04-17', 'pais': 'England'}, {'nombre': 'Vincent Enyeama', 'fecha': '1982-08-29', 'pais': 'Nigeria'}, {'nombre': 'Vitaly Petrov', 'fecha': '1984-09-08', 'pais': 'SovietUnion'}, {'nombre': 'Vitantonio Liuzzi', 'fecha': '1980-08-06', 'pais': 'EMPTY_STR'}, {'nombre': 'Viv Anderson', 'fecha': '1956-07-29', 'pais': 'England'}, {'nombre': 'Vladimir Stojkovi\xc4\x87', 'fecha': '1983-07-28', 'pais': 'SocialistFederalRepublicofYugoslavia'}, {'nombre': 'Waldemar de Brito', 'fecha': '1913-05-17', 'pais': 'Brazil'}, {'nombre': 'Walter Smith', 'fecha': '1948-02-24', 'pais': 'Scotland'}, {'nombre': 'Wayne Rooney', 'fecha': '1985-10-24', 'pais': 'England'}, {'nombre': 'Wesley Sneijder', 'fecha': '1984-06-09', 'pais': 'Netherlands'}, {'nombre': 'William Gallas', 'fecha': '1977-08-17', 'pais': 'France'}, {'nombre': 'Xabi Alonso', 'fecha': '1981-11-25', 'pais': 'Spain'}, {'nombre': 'Xavi', 'fecha': '1980-01-25', 'pais': 'Spain'}, {'nombre': 'Xherdan Shaqiri', 'fecha': '1991-10-10', 'pais': 'SocialistFederalRepublicofYugoslavia'}, {'nombre': 'Xuxa', 'fecha': '1963-03-27', 'pais': 'Brazil'}, {'nombre': 'Yaya Sanogo', 'fecha': '1993-01-27', 'pais': 'Essonne'}, {'nombre': 'Yoann Gourcuff', 'fecha': '1986-07-11', 'pais': 'France'}, {'nombre': 'Youri Djorkaeff', 'fecha': '1968-03-09', 'pais': 'France'}, {'nombre': 'Zahia Dehar', 'fecha': '1992-02-25', 'pais': 'Algeria'}, {'nombre': 'Zico', 'fecha': '1953-03-03', 'pais': 'Brazil'}, {'nombre': 'Zinedine Zidane', 'fecha': '1972-06-23', 'pais': 'France'}, {'nombre': 'Zlatan Ibrahimovi\xc4\x87', 'fecha': '1981-10-03', 'pais': 'Sweden'}, {'nombre': '\xc3\x81lex de la Iglesia', 'fecha': '1965-12-04', 'pais': 'BasqueCountry(autonomouscommunity)'}, {'nombre': '\xc3\x81lvaro Morata', 'fecha': '1992-10-23', 'pais': 'Spain'}, {'nombre': '\xc3\x81lvaro Negredo', 'fecha': '1985-08-20', 'pais': 'Spain'}, {'nombre': '\xc3\x81ngel Di Mar\xc3\xada', 'fecha': '1988-02-14', 'pais': 'Argentina'}]
+ 
+Lista relaciones:
+[{'p2': 'Alan Hansen', 'p1': 'Alex Ferguson'}, {'p2': 'Alan Shearer', 'p1': 'Alex Ferguson'}, {'p2': 'Alan Wiley', 'p1': 'Alex Ferguson'}, {'p2': 'Alex McLeish', 'p1': 'Alex Ferguson'}, {'p2': 'Andrei Kanchelskis', 'p1': 'Alex Ferguson'}, {'p2': 'Andy Roxburgh', 'p1': 'Alex Ferguson'}, {'p2': 'Archie Knox', 'p1': 'Alex Ferguson'}, {'p2': 'Ars\xc3\xa8ne Wenger', 'p1': 'Alex Ferguson'}, {'p2': 'Brian Kidd', 'p1': 'Alex Ferguson'}, {'p2': 'Brian McClair', 'p1': 'Alex Ferguson'}, {'p2': 'Bryan Gunn', 'p1': 'Alex Ferguson'}, {'p2': 'Bryan Robson', 'p1': 'Alex Ferguson'}, {'p2': 'Carlos Queiroz', 'p1': 'Alex Ferguson'}, {'p2': 'Carlos Tevez', 'p1': 'Alex Ferguson'}, {'p2': 'Darren Ferguson', 'p1': 'Alex Ferguson'}, {'p2': 'Dave Halliday', 'p1': 'Alex Ferguson'}, {'p2': 'David Beckham', 'p1': 'Alex Ferguson'}, {'p2': 'David de Gea', 'p1': 'Alex Ferguson'}, {'p2': 'Dion Dublin', 'p1': 'Alex Ferguson'}, {'p2': 'Eric Black', 'p1': 'Alex Ferguson'}, {'p2': 'Eric Cantona', 'p1': 'Alex Ferguson'}, {'p2': 'Eric Djemba-Djemba', 'p1': 'Alex Ferguson'}, {'p2': 'Fabien Barthez', 'p1': 'Alex Ferguson'}, {'p2': 'Frank McGarvey', 'p1': 'Alex Ferguson'}, {'p2': 'Gabriel Heinze', 'p1': 'Alex Ferguson'}, {'p2': 'Gary Neville', 'p1': 'Alex Ferguson'}, {'p2': 'Gary Pallister', 'p1': 'Alex Ferguson'}, {'p2': 'Gordon Strachan', 'p1': 'Alex Ferguson'}, {'p2': 'Graham Stringer', 'p1': 'Alex Ferguson'}, {'p2': 'Guus Hiddink', 'p1': 'Alex Ferguson'}, {'p2': 'Henning Berg', 'p1': 'Alex Ferguson'}, {'p2': 'Ivor Broadis', 'p1': 'Alex Ferguson'}, {'p2': 'J. P. McManus', 'p1': 'Alex Ferguson'}, {'p2': 'Jim Leighton', 'p1': 'Alex Ferguson'}, {'p2': 'Jock Stein', 'p1': 'Alex Ferguson'}, {'p2': 'John Magnier', 'p1': 'Alex Ferguson'}, {'p2': 'Keith Gillespie', 'p1': 'Alex Ferguson'}, {'p2': 'Keith Hackett', 'p1': 'Alex Ferguson'}, {'p2': 'Kevin Keegan', 'p1': 'Alex Ferguson'}, {'p2': 'Laurent Blanc', 'p1': 'Alex Ferguson'}, {'p2': 'Lee Sharpe', 'p1': 'Alex Ferguson'}, {'p2': 'Mark Bosnich', 'p1': 'Alex Ferguson'}, {'p2': 'Mark Hughes', 'p1': 'Alex Ferguson'}, {'p2': 'Mark McGhee', 'p1': 'Alex Ferguson'}, {'p2': 'Mark Robins', 'p1': 'Alex Ferguson'}, {'p2': 'Martin Atkinson', 'p1': 'Alex Ferguson'}, {'p2': 'Michael Carrick', 'p1': 'Alex Ferguson'}, {'p2': 'Mick Harford', 'p1': 'Alex Ferguson'}, {'p2': 'Mike Phelan', 'p1': 'Alex Ferguson'}, {'p2': 'Neale Cooper', 'p1': 'Alex Ferguson'}, {'p2': 'Neil Webb', 'p1': 'Alex Ferguson'}, {'p2': 'Nemanja Vidi\xc4\x87', 'p1': 'Alex Ferguson'}, {'p2': 'Nicky Butt', 'p1': 'Alex Ferguson'}, {'p2': 'Norman Whiteside', 'p1': 'Alex Ferguson'}, {'p2': 'Ole Gunnar Solskj\xc3\xa6r', 'p1': 'Alex Ferguson'}, {'p2': 'Patrice Evra', 'p1': 'Alex Ferguson'}, {'p2': 'Paul Ince', 'p1': 'Alex Ferguson'}, {'p2': 'Pep Guardiola', 'p1': 'Alex Ferguson'}, {'p2': 'Peter Schmeichel', 'p1': 'Alex Ferguson'}, {'p2': 'Rio Ferdinand', 'p1': 'Alex Ferguson'}, {'p2': 'Ron Atkinson', 'p1': 'Alex Ferguson'}, {'p2': 'Ronny Johnsen', 'p1': 'Alex Ferguson'}, {'p2': 'Roy Keane', 'p1': 'Alex Ferguson'}, {'p2': 'Ryan Giggs', 'p1': 'Alex Ferguson'}, {'p2': 'Steve Bruce', 'p1': 'Alex Ferguson'}, {'p2': 'Steve McClaren', 'p1': 'Alex Ferguson'}, {'p2': 'Viv Anderson', 'p1': 'Alex Ferguson'}, {'p2': 'Walter Smith', 'p1': 'Alex Ferguson'}, {'p2': 'Wayne Rooney', 'p1': 'Alex Ferguson'}, {'p2': 'Eus\xc3\xa9bio', 'p1': 'Alfredo Di St\xc3\xa9fano'}, {'p2': 'Francisco Gento', 'p1': 'Alfredo Di St\xc3\xa9fano'}, {'p2': 'Pel\xc3\xa9', 'p1': 'Alfredo Di St\xc3\xa9fano'}, {'p2': 'Cesc F\xc3\xa0bregas', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Dani Alves', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Daniel Jarque', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'David Villa', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Frank Rijkaard', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Gerard Piqu\xc3\xa9', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Giovanni van Bronckhorst', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Iker Casillas', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Ivan Rakiti\xc4\x87', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Lionel Messi', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Pep Guardiola', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Sergio Busquets', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Vicente del Bosque', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Xavi', 'p1': 'Andr\xc3\xa9s Iniesta'}, {'p2': 'Alex Ferguson', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Alfredo Di St\xc3\xa9fano', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Andr\xc3\xa9s Iniesta', 'p1': 'Cristiano Ronaldo'}, {'p2': 'David Beckham', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Didier Drogba', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Eus\xc3\xa9bio', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Federico Macheda', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Fernando Torres', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Franck Rib\xc3\xa9ry', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Gareth Bale', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Gemma Atkinson', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Gonzalo Higua\xc3\xadn', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Horacio Elizondo', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Jes\xc3\xa9', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Jos\xc3\xa9 Mourinho', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Kak\xc3\xa1', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Karim Benzema', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Lionel Messi', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Luis Su\xc3\xa1rez', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Luiz Adriano', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Lukas Podolski', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Manuel Neuer', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Martunis', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Mesut \xc3\x96zil', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Nuno Gomes', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Paulo Bento', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Pel\xc3\xa9', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Ram\xc3\xb3n Calder\xc3\xb3n', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Ricardo Carvalho', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Ronaldo', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Ruud van Nistelrooy', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Sebastian Vettel', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Telmo Zarra', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Thierry Henry', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Wayne Rooney', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Xavi', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Zinedine Zidane', 'p1': 'Cristiano Ronaldo'}, {'p2': 'Alan Hansen', 'p1': 'David Beckham'}, {'p2': 'Aldo Duscher', 'p1': 'David Beckham'}, {'p2': 'Alex Ferguson', 'p1': 'David Beckham'}, {'p2': 'Andrei Kanchelskis', 'p1': 'David Beckham'}, {'p2': 'Andriy Shevchenko', 'p1': 'David Beckham'}, {'p2': 'Bobby Charlton', 'p1': 'David Beckham'}, {'p2': 'Carlos Gamarra', 'p1': 'David Beckham'}, {'p2': 'Carlos Pav\xc3\xb3n', 'p1': 'David Beckham'}, {'p2': 'Carlos Queiroz', 'p1': 'David Beckham'}, {'p2': 'Charlie Miller', 'p1': 'David Beckham'}, {'p2': 'Darren Anderton', 'p1': 'David Beckham'}, {'p2': 'David Bentley', 'p1': 'David Beckham'}, {'p2': 'Diego Simeone', 'p1': 'David Beckham'}, {'p2': 'Elton John', 'p1': 'David Beckham'}, {'p2': 'Fabio Capello', 'p1': 'David Beckham'}, {'p2': 'Florentino P\xc3\xa9rez', 'p1': 'David Beckham'}, {'p2': 'Gary Neville', 'p1': 'David Beckham'}, {'p2': 'Joan Laporta', 'p1': 'David Beckham'}, {'p2': 'John Terry', 'p1': 'David Beckham'}, {'p2': 'Jos\xc3\xa9 Antonio Reyes', 'p1': 'David Beckham'}, {'p2': 'Kak\xc3\xa1', 'p1': 'David Beckham'}, {'p2': 'Landon Donovan', 'p1': 'David Beckham'}, {'p2': 'Lionel Messi', 'p1': 'David Beckham'}, {'p2': 'Lu\xc3\xads Figo', 'p1': 'David Beckham'}, {'p2': 'Massimo Ambrosini', 'p1': 'David Beckham'}, {'p2': 'Michael Owen', 'p1': 'David Beckham'}, {'p2': 'Neil Sullivan', 'p1': 'David Beckham'}, {'p2': 'Nicky Butt', 'p1': 'David Beckham'}, {'p2': 'Ole Gunnar Solskj\xc3\xa6r', 'p1': 'David Beckham'}, {'p2': 'Paul Scholes', 'p1': 'David Beckham'}, {'p2': 'Peter Crouch', 'p1': 'David Beckham'}, {'p2': 'Posh and Becks', 'p1': 'David Beckham'}, {'p2': 'Quavas Kirk', 'p1': 'David Beckham'}, {'p2': 'Ram\xc3\xb3n Calder\xc3\xb3n', 'p1': 'David Beckham'}, {'p2': 'Rebecca Loos', 'p1': 'David Beckham'}, {'p2': 'Reggie Bush', 'p1': 'David Beckham'}, {'p2': 'Robbie Keane', 'p1': 'David Beckham'}, {'p2': 'Ronaldinho', 'p1': 'David Beckham'}, {'p2': 'Roy Keane', 'p1': 'David Beckham'}, {'p2': 'Ryan Giggs', 'p1': 'David Beckham'}, {'p2': 'Sakari Orava', 'p1': 'David Beckham'}, {'p2': 'Shaun Wright-Phillips', 'p1': 'David Beckham'}, {'p2': 'Simon Fuller', 'p1': 'David Beckham'}, {'p2': 'Steve McClaren', 'p1': 'David Beckham'}, {'p2': 'Steve McManaman', 'p1': 'David Beckham'}, {'p2': 'Steven Gerrard', 'p1': 'David Beckham'}, {'p2': 'Sven-G\xc3\xb6ran Eriksson', 'p1': 'David Beckham'}, {'p2': 'Teddy Sheringham', 'p1': 'David Beckham'}, {'p2': 'Terry Byrne', 'p1': 'David Beckham'}, {'p2': 'Tony Adams', 'p1': 'David Beckham'}, {'p2': 'Victoria Beckham', 'p1': 'David Beckham'}, {'p2': 'Wayne Rooney', 'p1': 'David Beckham'}, {'p2': 'Zinedine Zidane', 'p1': 'David Beckham'}, {'p2': 'Alain Perrin', 'p1': 'Didier Drogba'}, {'p2': 'Ashley Cole', 'p1': 'Didier Drogba'}, {'p2': 'Carlo Ancelotti', 'p1': 'Didier Drogba'}, {'p2': 'Diego Costa', 'p1': 'Didier Drogba'}, {'p2': 'Essam El-Hadary', 'p1': 'Didier Drogba'}, {'p2': 'Florent Malouda', 'p1': 'Didier Drogba'}, {'p2': 'Frank Lampard', 'p1': 'Didier Drogba'}, {'p2': 'Gareth Bale', 'p1': 'Didier Drogba'}, {'p2': 'Henk ten Cate', 'p1': 'Didier Drogba'}, {'p2': 'John Terry', 'p1': 'Didier Drogba'}, {'p2': 'Jos\xc3\xa9 Mourinho', 'p1': 'Didier Drogba'}, {'p2': 'Juan Mata', 'p1': 'Didier Drogba'}, {'p2': 'Kolo Tour\xc3\xa9', 'p1': 'Didier Drogba'}, {'p2': 'Mark Hughes', 'p1': 'Didier Drogba'}, {'p2': 'Michael Essien', 'p1': 'Didier Drogba'}, {'p2': 'Michel Goba', 'p1': 'Didier Drogba'}, {'p2': 'Nicolas Anelka', 'p1': 'Didier Drogba'}, {'p2': 'Robin van Persie', 'p1': 'Didier Drogba'}, {'p2': 'Tom Henning \xc3\x98vreb\xc3\xb8', 'p1': 'Didier Drogba'}, {'p2': 'Xavi', 'p1': 'Didier Drogba'}, {'p2': 'Alex Stepney', 'p1': 'Eus\xc3\xa9bio'}, {'p2': 'Alfredo Di St\xc3\xa9fano', 'p1': 'Eus\xc3\xa9bio'}, {'p2': 'Gordon Banks', 'p1': 'Eus\xc3\xa9bio'}, {'p2': 'Lev Yashin', 'p1': 'Eus\xc3\xa9bio'}, {'p2': 'Lu\xc3\xads Figo', 'p1': 'Eus\xc3\xa9bio'}, {'p2': 'M\xc3\xa1rio Coluna', 'p1': 'Eus\xc3\xa9bio'}, {'p2': 'Nobby Stiles', 'p1': 'Eus\xc3\xa9bio'}, {'p2': 'Pauleta', 'p1': 'Eus\xc3\xa9bio'}, {'p2': 'Emyr Huws', 'p1': 'Federico Macheda'}, {'p2': 'Tom Thorpe', 'p1': 'Federico Macheda'}, {'p2': 'Alessio Cerci', 'p1': 'Fernando Torres'}, {'p2': 'Andr\xc3\xa9 Sch\xc3\xbcrrle', 'p1': 'Fernando Torres'}, {'p2': 'Cesc F\xc3\xa0bregas', 'p1': 'Fernando Torres'}, {'p2': 'David Villa', 'p1': 'Fernando Torres'}, {'p2': 'Diego Forl\xc3\xa1n', 'p1': 'Fernando Torres'}, {'p2': 'Fernando Llorente', 'p1': 'Fernando Torres'}, {'p2': 'Iker Casillas', 'p1': 'Fernando Torres'}, {'p2': 'Jack Balmer', 'p1': 'Fernando Torres'}, {'p2': 'Lionel Messi', 'p1': 'Fernando Torres'}, {'p2': 'Luis Aragon\xc3\xa9s', 'p1': 'Fernando Torres'}, {'p2': 'Mario G\xc3\xb3mez', 'p1': 'Fernando Torres'}, {'p2': 'Mario Mand\xc5\xbeuki\xc4\x87', 'p1': 'Fernando Torres'}, {'p2': 'Rafael Ben\xc3\xadtez', 'p1': 'Fernando Torres'}, {'p2': '\xc3\x81lvaro Negredo', 'p1': 'Fernando Torres'}, {'p2': 'Andr\xc3\xa9-Pierre Gignac', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Arjen Robben', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Jean Fernandez', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Karim Benzema', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Lionel Messi', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Luca Toni', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Luiz Gustavo', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Mario G\xc3\xb3mez', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Raymond Domenech', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Sidney Govou', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Thierry Gilardi', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Yoann Gourcuff', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Zahia Dehar', 'p1': 'Franck Rib\xc3\xa9ry'}, {'p2': 'Aaron Ramsey', 'p1': 'Gareth Bale'}, {'p2': 'Andr\xc3\xa9 Villas-Boas', 'p1': 'Gareth Bale'}, {'p2': 'Beno\xc3\xaet Assou-Ekotto', 'p1': 'Gareth Bale'}, {'p2': 'Brian Flynn', 'p1': 'Gareth Bale'}, {'p2': 'Carlo Ancelotti', 'p1': 'Gareth Bale'}, {'p2': 'Chaz Davies', 'p1': 'Gareth Bale'}, {'p2': 'Chris Pike', 'p1': 'Gareth Bale'}, {'p2': 'Didier Drogba', 'p1': 'Gareth Bale'}, {'p2': 'Gary Speed', 'p1': 'Gareth Bale'}, {'p2': 'Heurelho Gomes', 'p1': 'Gareth Bale'}, {'p2': 'Jermain Defoe', 'p1': 'Gareth Bale'}, {'p2': 'Rafael van der Vaart', 'p1': 'Gareth Bale'}, {'p2': 'Ryan Giggs', 'p1': 'Gareth Bale'}, {'p2': 'Sam Warburton', 'p1': 'Gareth Bale'}, {'p2': 'Xavi', 'p1': 'Gareth Bale'}, {'p2': '\xc3\x81ngel Di Mar\xc3\xada', 'p1': 'Gareth Bale'}, {'p2': 'Marcus Bent', 'p1': 'Gemma Atkinson'}, {'p2': 'Karim Benzema', 'p1': 'Gonzalo Higua\xc3\xadn'}, {'p2': 'Lionel Messi', 'p1': 'Gonzalo Higua\xc3\xadn'}, {'p2': 'Manuel Neuer', 'p1': 'Gonzalo Higua\xc3\xadn'}, {'p2': 'Ruud van Nistelrooy', 'p1': 'Gonzalo Higua\xc3\xadn'}, {'p2': '\xc3\x81ngel Di Mar\xc3\xada', 'p1': 'Gonzalo Higua\xc3\xadn'}, {'p2': 'Alexander Frei', 'p1': 'Horacio Elizondo'}, {'p2': 'Howard Webb', 'p1': 'Horacio Elizondo'}, {'p2': 'Luis Medina Cantalejo', 'p1': 'Horacio Elizondo'}, {'p2': 'Pierluigi Collina', 'p1': 'Horacio Elizondo'}, {'p2': 'Ricardo Carvalho', 'p1': 'Horacio Elizondo'}, {'p2': 'Wayne Rooney', 'p1': 'Horacio Elizondo'}, {'p2': 'Anders Frisk', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Andriy Shevchenko', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Andr\xc3\xa9 Sch\xc3\xbcrrle', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Andr\xc3\xa9 Villas-Boas', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Arjen Robben', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Ars\xc3\xa8ne Wenger', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Ashley Cole', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Avram Grant', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Baltemar Brito', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Bobby Robson', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Branislav Ivanovi\xc4\x87', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Carlo Ancelotti', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Claudio Ranieri', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Davide Santon', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Deco', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Dejan Stankovi\xc4\x87', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Derlei', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Didier Drogba', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Diego Costa', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Dmitri Alenichev', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Edgaras Jankauskas', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Ernst Happel', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Florent Malouda', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Florentino P\xc3\xa9rez', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Frank Arnesen', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Frank Lampard', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Giovanni Trapattoni', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Giuseppe Baresi', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Hern\xc3\xa1n Crespo', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'H\xc3\xa9lder Postiga', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Iker Casillas', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Javier Zanetti', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Jesualdo Ferreira', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Jorge Costa', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Juan Mata', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Jupp Heynckes', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Lionel Messi', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Louis van Gaal', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Lu\xc3\xads Figo', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Maniche', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Manuel Pellegrini', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Mario Balotelli', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Mateja Ke\xc5\xbeman', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Mesut \xc3\x96zil', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Michael Ballack', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Michael Essien', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Nuno Valente', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Ottmar Hitzfeld', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Paulo Ferreira', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Pedro Emanuel', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Pep Guardiola', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Rafael Ben\xc3\xadtez', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Ricardo Carvalho', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Ricardo Quaresma', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Roberto Mancini', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Rui Faria', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Silvino Louro', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Sulley Muntari', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Thibaut Courtois', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Tito Vilanova', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Xabi Alonso', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': '\xc3\x81ngel Di Mar\xc3\xada', 'p1': 'Jos\xc3\xa9 Mourinho'}, {'p2': 'Abdul Kader Ke\xc3\xafta', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Adriano Galliani', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Andrea Pirlo', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Caroline Celico', 'p1': 'Kak\xc3\xa1'}, {'p2': 'David Beckham', 'p1': 'Kak\xc3\xa1'}, {'p2': 'David Villa', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Dunga', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Eduardo Delani', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Florentino P\xc3\xa9rez', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Karim Benzema', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Lionel Messi', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Mano Menezes', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Marcelo Saragosa', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Robinho', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Ronaldinho', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Rui Costa', 'p1': 'Kak\xc3\xa1'}, {'p2': 'Florentino P\xc3\xa9rez', 'p1': 'Karim Benzema'}, {'p2': 'Franck Rib\xc3\xa9ry', 'p1': 'Karim Benzema'}, {'p2': 'Gonzalo Higua\xc3\xadn', 'p1': 'Karim Benzema'}, {'p2': 'Hatem Ben Arfa', 'p1': 'Karim Benzema'}, {'p2': 'Hugo Lloris', 'p1': 'Karim Benzema'}, {'p2': 'Kak\xc3\xa1', 'p1': 'Karim Benzema'}, {'p2': 'Manuel Pellegrini', 'p1': 'Karim Benzema'}, {'p2': 'Michael Essien', 'p1': 'Karim Benzema'}, {'p2': 'Samir Nasri', 'p1': 'Karim Benzema'}, {'p2': 'Sidney Govou', 'p1': 'Karim Benzema'}, {'p2': 'Yoann Gourcuff', 'p1': 'Karim Benzema'}, {'p2': 'Zahia Dehar', 'p1': 'Karim Benzema'}, {'p2': '\xc3\x81lvaro Morata', 'p1': 'Karim Benzema'}, {'p2': '\xc3\x81ngel Di Mar\xc3\xada', 'p1': 'Karim Benzema'}, {'p2': 'Alejandro Sabella', 'p1': 'Lionel Messi'}, {'p2': 'Andr\xc3\xa9s Iniesta', 'p1': 'Lionel Messi'}, {'p2': 'Ars\xc3\xa8ne Wenger', 'p1': 'Lionel Messi'}, {'p2': 'Bojan Krki\xc4\x87', 'p1': 'Lionel Messi'}, {'p2': 'Carles Rexach', 'p1': 'Lionel Messi'}, {'p2': 'Carlos Tevez', 'p1': 'Lionel Messi'}, {'p2': 'Cesc F\xc3\xa0bregas', 'p1': 'Lionel Messi'}, {'p2': 'Dani Alves', 'p1': 'Lionel Messi'}, {'p2': 'David Beckham', 'p1': 'Lionel Messi'}, {'p2': 'David Villa', 'p1': 'Lionel Messi'}, {'p2': 'Diego Maradona', 'p1': 'Lionel Messi'}, {'p2': 'Diego Simeone', 'p1': 'Lionel Messi'}, {'p2': 'Emanuel Biancucchi', 'p1': 'Lionel Messi'}, {'p2': 'Fernando Torres', 'p1': 'Lionel Messi'}, {'p2': 'Francesco Totti', 'p1': 'Lionel Messi'}, {'p2': 'Franck Rib\xc3\xa9ry', 'p1': 'Lionel Messi'}, {'p2': 'Franz Beckenbauer', 'p1': 'Lionel Messi'}, {'p2': 'Gerard Piqu\xc3\xa9', 'p1': 'Lionel Messi'}, {'p2': 'Gerd M\xc3\xbcller', 'p1': 'Lionel Messi'}, {'p2': 'Gonzalo Higua\xc3\xadn', 'p1': 'Lionel Messi'}, {'p2': 'Hern\xc3\xa1n Crespo', 'p1': 'Lionel Messi'}, {'p2': 'Javier Mascherano', 'p1': 'Lionel Messi'}, {'p2': 'Jos\xc3\xa9 Mourinho', 'p1': 'Lionel Messi'}, {'p2': 'Kak\xc3\xa1', 'p1': 'Lionel Messi'}, {'p2': 'Kobe Bryant', 'p1': 'Lionel Messi'}, {'p2': 'Luciana Aymar', 'p1': 'Lionel Messi'}, {'p2': 'Luis Su\xc3\xa1rez', 'p1': 'Lionel Messi'}, {'p2': 'Luiz Adriano', 'p1': 'Lionel Messi'}, {'p2': 'Lu\xc3\xads Figo', 'p1': 'Lionel Messi'}, {'p2': 'Marco van Basten', 'p1': 'Lionel Messi'}, {'p2': 'Mario G\xc3\xb6tze', 'p1': 'Lionel Messi'}, {'p2': 'Mesut \xc3\x96zil', 'p1': 'Lionel Messi'}, {'p2': 'Pel\xc3\xa9', 'p1': 'Lionel Messi'}, {'p2': 'Pep Guardiola', 'p1': 'Lionel Messi'}, {'p2': 'Rafael Nadal', 'p1': 'Lionel Messi'}, {'p2': 'Ronaldinho', 'p1': 'Lionel Messi'}, {'p2': 'Ronaldo', 'p1': 'Lionel Messi'}, {'p2': 'Sergio Batista', 'p1': 'Lionel Messi'}, {'p2': 'Sergio Busquets', 'p1': 'Lionel Messi'}, {'p2': 'Telmo Zarra', 'p1': 'Lionel Messi'}, {'p2': 'Thierry Henry', 'p1': 'Lionel Messi'}, {'p2': 'Tom\xc3\xa1\xc5\xa1 Ujfalu\xc5\xa1i', 'p1': 'Lionel Messi'}, {'p2': 'Usain Bolt', 'p1': 'Lionel Messi'}, {'p2': 'Vincent Enyeama', 'p1': 'Lionel Messi'}, {'p2': 'Wayne Rooney', 'p1': 'Lionel Messi'}, {'p2': 'Xavi', 'p1': 'Lionel Messi'}, {'p2': 'Zlatan Ibrahimovi\xc4\x87', 'p1': 'Lionel Messi'}, {'p2': '\xc3\x81lex de la Iglesia', 'p1': 'Lionel Messi'}, {'p2': '\xc3\x81ngel Di Mar\xc3\xada', 'p1': 'Lionel Messi'}, {'p2': 'Alan Shearer', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Albert Luque', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Andy Carroll', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Asamoah Gyan', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Branislav Ivanovi\xc4\x87', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Daniel Sturridge', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Diego Forl\xc3\xa1n', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Dominic Adiyiah', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Edinson Cavani', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Giorgio Chiellini', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Kenny Dalglish', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Klaas-Jan Huntelaar', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Lionel Messi', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Maarten Stekelenburg', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Mounir El Hamdaoui', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Otman Bakkal', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Paolo Su\xc3\xa1rez', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Patrice Evra', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Sebasti\xc3\xa1n Coates', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Thierry Henry', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Thomas Vermaelen', 'p1': 'Luis Su\xc3\xa1rez'}, {'p2': 'Lionel Messi', 'p1': 'Luiz Adriano'}, {'p2': 'Bastian Schweinsteiger', 'p1': 'Lukas Podolski'}, {'p2': 'David Silva', 'p1': 'Lukas Podolski'}, {'p2': 'Jack Wilshere', 'p1': 'Lukas Podolski'}, {'p2': 'Joachim L\xc3\xb6w', 'p1': 'Lukas Podolski'}, {'p2': 'J\xc3\xbcrgen Klinsmann', 'p1': 'Lukas Podolski'}, {'p2': 'Marcel Koller', 'p1': 'Lukas Podolski'}, {'p2': 'Mario G\xc3\xb3mez', 'p1': 'Lukas Podolski'}, {'p2': 'Mesut \xc3\x96zil', 'p1': 'Lukas Podolski'}, {'p2': 'Miroslav Klose', 'p1': 'Lukas Podolski'}, {'p2': 'Nemanja Vidi\xc4\x87', 'p1': 'Lukas Podolski'}, {'p2': 'Olivier Giroud', 'p1': 'Lukas Podolski'}, {'p2': 'Per Mertesacker', 'p1': 'Lukas Podolski'}, {'p2': 'Santi Cazorla', 'p1': 'Lukas Podolski'}, {'p2': 'Thomas M\xc3\xbcller', 'p1': 'Lukas Podolski'}, {'p2': 'Xherdan Shaqiri', 'p1': 'Lukas Podolski'}, {'p2': 'Yaya Sanogo', 'p1': 'Lukas Podolski'}, {'p2': 'Benedikt H\xc3\xb6wedes', 'p1': 'Manuel Neuer'}, {'p2': 'Frank Rost', 'p1': 'Manuel Neuer'}, {'p2': 'Gianluigi Buffon', 'p1': 'Manuel Neuer'}, {'p2': 'Gonzalo Higua\xc3\xadn', 'p1': 'Manuel Neuer'}, {'p2': 'Hans-J\xc3\xb6rg Butt', 'p1': 'Manuel Neuer'}, {'p2': 'Heiko Westermann', 'p1': 'Manuel Neuer'}, {'p2': 'Juan Mata', 'p1': 'Manuel Neuer'}, {'p2': 'Mesut \xc3\x96zil', 'p1': 'Manuel Neuer'}, {'p2': 'Pep Guardiola', 'p1': 'Manuel Neuer'}, {'p2': 'Roman Weidenfeller', 'p1': 'Manuel Neuer'}, {'p2': 'Tim Wiese', 'p1': 'Manuel Neuer'}, {'p2': 'Aaron Ramsey', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Ars\xc3\xa8ne Wenger', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Bastian Schweinsteiger', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Danny Welbeck', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'David Villa', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Jos\xc3\xa9 Mourinho', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Lionel Messi', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Luka Modri\xc4\x87', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Lukas Podolski', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Mandy Capristo', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Manuel Neuer', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Mario G\xc3\xb6tze', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Olivier Giroud', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Per Mertesacker', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Thomas M\xc3\xbcller', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Tom\xc3\xa1\xc5\xa1 Rosick\xc3\xbd', 'p1': 'Mesut \xc3\x96zil'}, {'p2': '\xc3\x81ngel Di Mar\xc3\xada', 'p1': 'Mesut \xc3\x96zil'}, {'p2': 'Jorge Andrade', 'p1': 'Nuno Gomes'}, {'p2': 'Luis\xc3\xa3o', 'p1': 'Nuno Gomes'}, {'p2': 'Paulo Bento', 'p1': 'Nuno Gomes'}, {'p2': 'H\xc3\xa9lder Postiga', 'p1': 'Paulo Bento'}, {'p2': 'Jo\xc3\xa3o Moutinho', 'p1': 'Paulo Bento'}, {'p2': 'Marat Izmailov', 'p1': 'Paulo Bento'}, {'p2': 'Miguel Veloso', 'p1': 'Paulo Bento'}, {'p2': 'Nuno Gomes', 'p1': 'Paulo Bento'}, {'p2': 'Rui Patr\xc3\xadcio', 'p1': 'Paulo Bento'}, {'p2': 'Simon Vuk\xc4\x8devi\xc4\x87', 'p1': 'Paulo Bento'}, {'p2': 'Vladimir Stojkovi\xc4\x87', 'p1': 'Paulo Bento'}, {'p2': 'Alfredo Di St\xc3\xa9fano', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Aymor\xc3\xa9 Moreira', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Carlos Alberto Torres', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Claudia Schiffer', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Diego Maradona', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Djalma Santos', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Dondinho', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Garrincha', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Gordon Banks', 'p1': 'Pel\xc3\xa9'}, {'p2': 'G\xc3\xa9rson', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Johan Cruyff', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Jo\xc3\xa3o Havelange', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Jo\xc3\xa3o Morais', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Just Fontaine', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Lionel Messi', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Michel Platini', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Miroslav Klose', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Norman Whiteside', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Ricardo Teixeira', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Rod Laver', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Rom\xc3\xa1rio', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Sylvester Stallone', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Tarcisio Burgnich', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Uwe Seeler', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Vicente Feola', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Waldemar de Brito', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Xuxa', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Zico', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Zinedine Zidane', 'p1': 'Pel\xc3\xa9'}, {'p2': 'Arjen Robben', 'p1': 'Ram\xc3\xb3n Calder\xc3\xb3n'}, {'p2': 'David Beckham', 'p1': 'Ram\xc3\xb3n Calder\xc3\xb3n'}, {'p2': 'Fabio Capello', 'p1': 'Ram\xc3\xb3n Calder\xc3\xb3n'}, {'p2': 'Florentino P\xc3\xa9rez', 'p1': 'Ram\xc3\xb3n Calder\xc3\xb3n'}, {'p2': 'Mahamadou Diarra', 'p1': 'Ram\xc3\xb3n Calder\xc3\xb3n'}, {'p2': 'Predrag Mijatovi\xc4\x87', 'p1': 'Ram\xc3\xb3n Calder\xc3\xb3n'}, {'p2': 'Fernando Couto', 'p1': 'Ricardo Carvalho'}, {'p2': 'Horacio Elizondo', 'p1': 'Ricardo Carvalho'}, {'p2': 'Jos\xc3\xa9 Mourinho', 'p1': 'Ricardo Carvalho'}, {'p2': 'Michael Ballack', 'p1': 'Ricardo Carvalho'}, {'p2': 'Paulo Ferreira', 'p1': 'Ricardo Carvalho'}, {'p2': 'Pedro Emanuel', 'p1': 'Ricardo Carvalho'}, {'p2': 'Wayne Rooney', 'p1': 'Ricardo Carvalho'}, {'p2': 'Alexandre Pato', 'p1': 'Ronaldo'}, {'p2': 'Andriy Shevchenko', 'p1': 'Ronaldo'}, {'p2': 'Diego Maradona', 'p1': 'Ronaldo'}, {'p2': 'Eric Cantona', 'p1': 'Ronaldo'}, {'p2': 'Fabien Barthez', 'p1': 'Ronaldo'}, {'p2': 'Fabio Cannavaro', 'p1': 'Ronaldo'}, {'p2': 'Fabio Capello', 'p1': 'Ronaldo'}, {'p2': 'Francesco Totti', 'p1': 'Ronaldo'}, {'p2': 'George Weah', 'p1': 'Ronaldo'}, {'p2': 'Gerd M\xc3\xbcller', 'p1': 'Ronaldo'}, {'p2': 'Goran Ivani\xc5\xa1evi\xc4\x87', 'p1': 'Ronaldo'}, {'p2': 'Hidetoshi Nakata', 'p1': 'Ronaldo'}, {'p2': 'Iv\xc3\xa1n Zamorano', 'p1': 'Ronaldo'}, {'p2': 'Jorge Campos', 'p1': 'Ronaldo'}, {'p2': 'Josep Llu\xc3\xads N\xc3\xba\xc3\xb1ez', 'p1': 'Ronaldo'}, {'p2': 'J\xc3\xbcrgen Klinsmann', 'p1': 'Ronaldo'}, {'p2': 'Lionel Messi', 'p1': 'Ronaldo'}, {'p2': 'Lu\xc3\xads Figo', 'p1': 'Ronaldo'}, {'p2': 'Milene Domingues', 'p1': 'Ronaldo'}, {'p2': 'Miroslav Klose', 'p1': 'Ronaldo'}, {'p2': 'Paolo Maldini', 'p1': 'Ronaldo'}, {'p2': 'Patrick Kluivert', 'p1': 'Ronaldo'}, {'p2': 'Rivaldo', 'p1': 'Ronaldo'}, {'p2': 'Rom\xc3\xa1rio', 'p1': 'Ronaldo'}, {'p2': 'Ronaldinho', 'p1': 'Ronaldo'}, {'p2': 'Ruud van Nistelrooy', 'p1': 'Ronaldo'}, {'p2': 'Thierry Henry', 'p1': 'Ronaldo'}, {'p2': 'Youri Djorkaeff', 'p1': 'Ronaldo'}, {'p2': 'Zinedine Zidane', 'p1': 'Ronaldo'}, {'p2': 'Zlatan Ibrahimovi\xc4\x87', 'p1': 'Ronaldo'}, {'p2': 'Ars\xc3\xa8ne Wenger', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Daniel Parejo', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Dirk Kuyt', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Gonzalo Higua\xc3\xadn', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Guus Hiddink', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Jos\xc3\xa9 Salom\xc3\xb3n Rond\xc3\xb3n', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Klaas-Jan Huntelaar', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Marco van Basten', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Martin Keown', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Robin van Persie', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Ronaldo', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Thierry Henry', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Wayne Rooney', 'p1': 'Ruud van Nistelrooy'}, {'p2': 'Alberto Ascari', 'p1': 'Sebastian Vettel'}, {'p2': 'Ayrton Senna', 'p1': 'Sebastian Vettel'}, {'p2': 'Christian Horner', 'p1': 'Sebastian Vettel'}, {'p2': 'Daniel Ricciardo', 'p1': 'Sebastian Vettel'}, {'p2': 'Daniil Kvyat', 'p1': 'Sebastian Vettel'}, {'p2': 'David Coulthard', 'p1': 'Sebastian Vettel'}, {'p2': 'Dietrich Mateschitz', 'p1': 'Sebastian Vettel'}, {'p2': 'Dirk Nowitzki', 'p1': 'Sebastian Vettel'}, {'p2': 'Felipe Massa', 'p1': 'Sebastian Vettel'}, {'p2': 'Fernando Alonso', 'p1': 'Sebastian Vettel'}, {'p2': 'Filipe Albuquerque', 'p1': 'Sebastian Vettel'}, {'p2': 'Gerhard Berger', 'p1': 'Sebastian Vettel'}, {'p2': 'Heikki Kovalainen', 'p1': 'Sebastian Vettel'}, {'p2': 'Helmut Marko', 'p1': 'Sebastian Vettel'}, {'p2': 'Jenson Button', 'p1': 'Sebastian Vettel'}, {'p2': 'Jules Bianchi', 'p1': 'Sebastian Vettel'}, {'p2': 'Kimi R\xc3\xa4ikk\xc3\xb6nen', 'p1': 'Sebastian Vettel'}, {'p2': 'Kris Meeke', 'p1': 'Sebastian Vettel'}, {'p2': 'Lewis Hamilton', 'p1': 'Sebastian Vettel'}, {'p2': 'Marcus Gr\xc3\xb6nholm', 'p1': 'Sebastian Vettel'}, {'p2': 'Mark Webber', 'p1': 'Sebastian Vettel'}, {'p2': 'Maximilian G\xc3\xb6tz', 'p1': 'Sebastian Vettel'}, {'p2': 'Michael Ammerm\xc3\xbcller', 'p1': 'Sebastian Vettel'}, {'p2': 'Michael Schumacher', 'p1': 'Sebastian Vettel'}, {'p2': 'Narain Karthikeyan', 'p1': 'Sebastian Vettel'}, {'p2': 'Nick Heidfeld', 'p1': 'Sebastian Vettel'}, {'p2': 'Nico H\xc3\xbclkenberg', 'p1': 'Sebastian Vettel'}, {'p2': 'Nico Rosberg', 'p1': 'Sebastian Vettel'}, {'p2': 'Nigel Mansell', 'p1': 'Sebastian Vettel'}, {'p2': 'Paul Biedermann', 'p1': 'Sebastian Vettel'}, {'p2': 'Paul di Resta', 'p1': 'Sebastian Vettel'}, {'p2': 'Petter Solberg', 'p1': 'Sebastian Vettel'}, {'p2': 'Robert Kubica', 'p1': 'Sebastian Vettel'}, {'p2': 'Romain Grosjean', 'p1': 'Sebastian Vettel'}, {'p2': 'Rubens Barrichello', 'p1': 'Sebastian Vettel'}, {'p2': 'Scott Speed', 'p1': 'Sebastian Vettel'}, {'p2': 'S\xc3\xa9bastien Bourdais', 'p1': 'Sebastian Vettel'}, {'p2': 'Timo Glock', 'p1': 'Sebastian Vettel'}, {'p2': 'Usain Bolt', 'p1': 'Sebastian Vettel'}, {'p2': 'Valtteri Bottas', 'p1': 'Sebastian Vettel'}, {'p2': 'Vitaly Petrov', 'p1': 'Sebastian Vettel'}, {'p2': 'Vitantonio Liuzzi', 'p1': 'Sebastian Vettel'}, {'p2': 'Lionel Messi', 'p1': 'Telmo Zarra'}, {'p2': 'Ars\xc3\xa8ne Wenger', 'p1': 'Thierry Henry'}, {'p2': 'Cliff Bastin', 'p1': 'Thierry Henry'}, {'p2': 'David Dein', 'p1': 'Thierry Henry'}, {'p2': 'David Trezeguet', 'p1': 'Thierry Henry'}, {'p2': 'Dax McCarty', 'p1': 'Thierry Henry'}, {'p2': 'Dennis Bergkamp', 'p1': 'Thierry Henry'}, {'p2': 'Diego Forl\xc3\xa1n', 'p1': 'Thierry Henry'}, {'p2': 'Edgar Davids', 'p1': 'Thierry Henry'}, {'p2': 'Eric Cantona', 'p1': 'Thierry Henry'}, {'p2': 'Francesco Totti', 'p1': 'Thierry Henry'}, {'p2': 'Frank Lampard', 'p1': 'Thierry Henry'}, {'p2': 'Hidetoshi Nakata', 'p1': 'Thierry Henry'}, {'p2': 'Ian Wright', 'p1': 'Thierry Henry'}, {'p2': 'Juan Pablo \xc3\x81ngel', 'p1': 'Thierry Henry'}, {'p2': 'Lilian Thuram', 'p1': 'Thierry Henry'}, {'p2': 'Lionel Messi', 'p1': 'Thierry Henry'}, {'p2': 'Luis Aragon\xc3\xa9s', 'p1': 'Thierry Henry'}, {'p2': 'Luis Su\xc3\xa1rez', 'p1': 'Thierry Henry'}, {'p2': 'Lu\xc3\xads Figo', 'p1': 'Thierry Henry'}, {'p2': 'Marouane Chamakh', 'p1': 'Thierry Henry'}, {'p2': 'Michel Platini', 'p1': 'Thierry Henry'}, {'p2': 'Patrice Evra', 'p1': 'Thierry Henry'}, {'p2': 'Patrick Vieira', 'p1': 'Thierry Henry'}, {'p2': 'Raymond Domenech', 'p1': 'Thierry Henry'}, {'p2': 'Robert Pir\xc3\xa8s', 'p1': 'Thierry Henry'}, {'p2': 'Robin van Persie', 'p1': 'Thierry Henry'}, {'p2': 'Rom\xc3\xa1rio', 'p1': 'Thierry Henry'}, {'p2': 'Ronaldinho', 'p1': 'Thierry Henry'}, {'p2': 'Ronaldo', 'p1': 'Thierry Henry'}, {'p2': 'Ruud van Nistelrooy', 'p1': 'Thierry Henry'}, {'p2': 'Tiger Woods', 'p1': 'Thierry Henry'}, {'p2': 'Tony Parker', 'p1': 'Thierry Henry'}, {'p2': 'Wayne Rooney', 'p1': 'Thierry Henry'}, {'p2': 'William Gallas', 'p1': 'Thierry Henry'}, {'p2': 'Alex Ferguson', 'p1': 'Wayne Rooney'}, {'p2': 'Antonio Valencia', 'p1': 'Wayne Rooney'}, {'p2': 'Ashley Young', 'p1': 'Wayne Rooney'}, {'p2': 'Coleen Rooney', 'p1': 'Wayne Rooney'}, {'p2': 'Danny Welbeck', 'p1': 'Wayne Rooney'}, {'p2': 'David Beckham', 'p1': 'Wayne Rooney'}, {'p2': 'David Moyes', 'p1': 'Wayne Rooney'}, {'p2': 'Horacio Elizondo', 'p1': 'Wayne Rooney'}, {'p2': 'Hunter Davies', 'p1': 'Wayne Rooney'}, {'p2': 'Johan Vonlanthen', 'p1': 'Wayne Rooney'}, {'p2': 'Lionel Messi', 'p1': 'Wayne Rooney'}, {'p2': 'Louis van Gaal', 'p1': 'Wayne Rooney'}, {'p2': 'Miodrag D\xc5\xbeudovi\xc4\x87', 'p1': 'Wayne Rooney'}, {'p2': 'Nemanja Vidi\xc4\x87', 'p1': 'Wayne Rooney'}, {'p2': 'Paul Scholes', 'p1': 'Wayne Rooney'}, {'p2': 'Ricardo Carvalho', 'p1': 'Wayne Rooney'}, {'p2': 'Robin van Persie', 'p1': 'Wayne Rooney'}, {'p2': 'Roy Hodgson', 'p1': 'Wayne Rooney'}, {'p2': 'Ruud van Nistelrooy', 'p1': 'Wayne Rooney'}, {'p2': 'Ryan Giggs', 'p1': 'Wayne Rooney'}, {'p2': 'Steven Gerrard', 'p1': 'Wayne Rooney'}, {'p2': 'Sven-G\xc3\xb6ran Eriksson', 'p1': 'Wayne Rooney'}, {'p2': 'Theo Walcott', 'p1': 'Wayne Rooney'}, {'p2': 'Thierry Henry', 'p1': 'Wayne Rooney'}, {'p2': '\xc3\x81ngel Di Mar\xc3\xada', 'p1': 'Wayne Rooney'}, {'p2': 'Andr\xc3\xa9s Iniesta', 'p1': 'Xavi'}, {'p2': 'Carles Puyol', 'p1': 'Xavi'}, {'p2': 'Cesc F\xc3\xa0bregas', 'p1': 'Xavi'}, {'p2': 'David Villa', 'p1': 'Xavi'}, {'p2': 'Didier Drogba', 'p1': 'Xavi'}, {'p2': 'Gareth Bale', 'p1': 'Xavi'}, {'p2': 'Gerard Piqu\xc3\xa9', 'p1': 'Xavi'}, {'p2': 'Haile Gebrselassie', 'p1': 'Xavi'}, {'p2': 'Iker Casillas', 'p1': 'Xavi'}, {'p2': 'Johan Cruyff', 'p1': 'Xavi'}, {'p2': 'Jordi Alba', 'p1': 'Xavi'}, {'p2': 'Jos\xc3\xa9 Mar\xc3\xada Olaz\xc3\xa1bal', 'p1': 'Xavi'}, {'p2': 'Lionel Messi', 'p1': 'Xavi'}, {'p2': 'Matt Le Tissier', 'p1': 'Xavi'}, {'p2': 'Migueli', 'p1': 'Xavi'}, {'p2': 'Riccardo Montolivo', 'p1': 'Xavi'}, {'p2': 'Thiago Alc\xc3\xa2ntara', 'p1': 'Xavi'}, {'p2': 'Wesley Sneijder', 'p1': 'Xavi'}, {'p2': 'Bla\xc5\xbe Sli\xc5\xa1kovi\xc4\x87', 'p1': 'Zinedine Zidane'}, {'p2': 'Carlo Ancelotti', 'p1': 'Zinedine Zidane'}, {'p2': 'Christophe Dugarry', 'p1': 'Zinedine Zidane'}, {'p2': 'David Beckham', 'p1': 'Zinedine Zidane'}, {'p2': 'Didier Deschamps', 'p1': 'Zinedine Zidane'}, {'p2': 'Diego Maradona', 'p1': 'Zinedine Zidane'}, {'p2': 'Emmanuel Petit', 'p1': 'Zinedine Zidane'}, {'p2': 'Enzo Francescoli', 'p1': 'Zinedine Zidane'}, {'p2': 'Fabien Barthez', 'p1': 'Zinedine Zidane'}, {'p2': 'Gianluigi Buffon', 'p1': 'Zinedine Zidane'}, {'p2': 'Jack Walker', 'p1': 'Zinedine Zidane'}, {'p2': 'Jean-Philippe Toussaint', 'p1': 'Zinedine Zidane'}, {'p2': 'Jochen Kientz', 'p1': 'Zinedine Zidane'}, {'p2': 'John Heitinga', 'p1': 'Zinedine Zidane'}, {'p2': 'Lilian Thuram', 'p1': 'Zinedine Zidane'}, {'p2': 'Marco Materazzi', 'p1': 'Zinedine Zidane'}, {'p2': 'Michel Platini', 'p1': 'Zinedine Zidane'}, {'p2': 'Patrick Vieira', 'p1': 'Zinedine Zidane'}, {'p2': 'Paul Lambert', 'p1': 'Zinedine Zidane'}, {'p2': 'Pel\xc3\xa9', 'p1': 'Zinedine Zidane'}, {'p2': 'Raymond Domenech', 'p1': 'Zinedine Zidane'}, {'p2': 'Ronaldinho', 'p1': 'Zinedine Zidane'}, {'p2': 'Ronaldo', 'p1': 'Zinedine Zidane'}, {'p2': 'Sergey Bubka', 'p1': 'Zinedine Zidane'}, {'p2': 'Vav\xc3\xa1', 'p1': 'Zinedine Zidane'}]
+ 
+Fortaleza:
+
+Algeria y France, peso: 2
+
+Allied-occupiedGermany y Brazil, peso: 1
+
+Allied-occupiedGermany y LisboaRegion, peso: 1
+
+Allied-occupiedGermany y SantaFe, peso: 1
+
+Argentina y Brazil, peso: 2
+
+Argentina y England, peso: 6
+
+Argentina y France, peso: 2
+
+Argentina y Italy, peso: 1
+
+Argentina y LisboaRegion, peso: 2
+
+Argentina y Maputo, peso: 2
+
+Argentina y Portugal, peso: 4
+
+Argentina y SantaFe, peso: 5
+
+Argentina y Spain, peso: 2
+
+Argentina y Switzerland, peso: 1
+
+Argentina y Wales, peso: 1
+
+Argentina y WestGermany, peso: 1
+
+Asturias y Poland, peso: 1
+
+Australia y Brazil, peso: 1
+
+Australia y WestGermany, peso: 1
+
+Austria y LisboaRegion, peso: 1
+
+Austria y WestGermany, peso: 3
+
+BasqueCountry(autonomouscommunity) y Brazil, peso: 1
+
+BasqueCountry(autonomouscommunity) y SantaFe, peso: 1
+
+Belgium y France, peso: 2
+
+Belgium y LisboaRegion, peso: 1
+
+Belgium y Uruguay, peso: 1
+
+Brazil y Allied-occupiedGermany, peso: 1
+
+Brazil y Argentina, peso: 2
+
+Brazil y Australia, peso: 1
+
+Brazil y BasqueCountry(autonomouscommunity), peso: 1
+
+Brazil y Brazil, peso: 40
+
+Brazil y BuenosAiresprovince, peso: 2
+
+Brazil y Chile, peso: 1
+
+Brazil y Croatia, peso: 1
+
+Brazil y England, peso: 4
+
+Brazil y FirstBrazilianRepublic, peso: 1
+
+Brazil y France, peso: 17
+
+Brazil y FrancoistSpain, peso: 1
+
+Brazil y FrenchprotectorateinMorocco, peso: 1
+
+Brazil y Germany, peso: 1
+
+Brazil y Italy, peso: 6
+
+Brazil y IvoryCoast, peso: 1
+
+Brazil y Liberia, peso: 1
+
+Brazil y LisboaRegion, peso: 3
+
+Brazil y Mexico, peso: 1
+
+Brazil y MinasGerais, peso: 1
+
+Brazil y Netherlands, peso: 4
+
+Brazil y NorthernIreland, peso: 1
+
+Brazil y PauGrande, peso: 1
+
+Brazil y Poland, peso: 2
+
+Brazil y Portugal, peso: 7
+
+Brazil y SantaFe, peso: 10
+
+Brazil y SovietUnion, peso: 1
+
+Brazil y Spain, peso: 2
+
+Brazil y Sweden, peso: 1
+
+Brazil y SãoPaulo(city), peso: 1
+
+Brazil y SãoPaulo, peso: 1
+
+Brazil y U.S., peso: 1
+
+Brazil y WestGermany, peso: 5
+
+Brazil y YamanashiPrefecture, peso: 1
+
+Brazil y {{flagicon, peso: 1
+
+Bronckhorst y Netherlands, peso: 1
+
+Bronckhorst y Uruguay, peso: 1
+
+BuenosAires y LisboaRegion, peso: 1
+
+BuenosAires y SantaFe, peso: 2
+
+BuenosAires y Scotland, peso: 1
+
+BuenosAiresprovince y Brazil, peso: 2
+
+BuenosAiresprovince y France, peso: 1
+
+BuenosAiresprovince y SantaFe, peso: 1
+
+California y England, peso: 1
+
+California y France, peso: 1
+
+California y WestGermany, peso: 1
+
+Cameroon y Scotland, peso: 1
+
+Chemnitz y WestGermany, peso: 1
+
+Chile y Brazil, peso: 1
+
+Chile y France, peso: 1
+
+Chile y LisboaRegion, peso: 1
+
+Coimbra(Portugal) y WestGermany, peso: 1
+
+Colombia y England, peso: 1
+
+Colombia y France, peso: 1
+
+Cork(city) y England, peso: 1
+
+Cork(city) y Scotland, peso: 1
+
+Coted'Ivoire y IvoryCoast, peso: 1
+
+CountyCork y Scotland, peso: 1
+
+Croatia y Brazil, peso: 1
+
+Cyprus y England, peso: 1
+
+Czechoslovakia y SantaFe, peso: 1
+
+Czechoslovakia y WestGermany, peso: 1
+
+Denmark y LisboaRegion, peso: 1
+
+EMPTY_STR y England, peso: 2
+
+EMPTY_STR y France, peso: 1
+
+EMPTY_STR y WestGermany, peso: 4
+
+EastGermany y LisboaRegion, peso: 1
+
+EastGermany y Portugal, peso: 1
+
+Egypt y IvoryCoast, peso: 1
+
+England y Argentina, peso: 6
+
+England y Brazil, peso: 4
+
+England y California, peso: 1
+
+England y Colombia, peso: 1
+
+England y Cork(city), peso: 1
+
+England y Cyprus, peso: 1
+
+England y EMPTY_STR, peso: 2
+
+England y England, peso: 50
+
+England y Finland, peso: 1
+
+England y France, peso: 8
+
+England y FrancoistSpain, peso: 1
+
+England y GreaterManchester, peso: 2
+
+England y Honduras, peso: 1
+
+England y Ireland, peso: 1
+
+England y Italy, peso: 3
+
+England y IvoryCoast, peso: 3
+
+England y LisboaRegion, peso: 3
+
+England y LondonBoroughofSutton, peso: 1
+
+England y Maputo, peso: 3
+
+England y Montenegro, peso: 1
+
+England y Netherlands, peso: 5
+
+England y Norway, peso: 1
+
+England y NuevaLoja, peso: 1
+
+England y Paraguay, peso: 1
+
+England y Poland, peso: 1
+
+England y Portugal, peso: 6
+
+England y PortugueseMozambique, peso: 1
+
+England y SantaFe, peso: 4
+
+England y Scotland, peso: 30
+
+England y SovietUnion, peso: 1
+
+England y Spain, peso: 6
+
+England y Sweden, peso: 2
+
+England y UkrainianSovietSocialistRepublic, peso: 1
+
+England y UnitedStates, peso: 2
+
+England y Uruguay, peso: 3
+
+England y Užice, peso: 1
+
+England y Wales, peso: 3
+
+England y WestGermany, peso: 2
+
+EntreRíos y Scotland, peso: 1
+
+Essonne y Poland, peso: 1
+
+Ethiopia y Spain, peso: 1
+
+Finland y England, peso: 1
+
+Finland y WestGermany, peso: 3
+
+FirstBrazilianRepublic y Brazil, peso: 1
+
+FlensburgGovernment y LisboaRegion, peso: 1
+
+France y Algeria, peso: 2
+
+France y Argentina, peso: 2
+
+France y Belgium, peso: 2
+
+France y Brazil, peso: 17
+
+France y BuenosAiresprovince, peso: 1
+
+France y California, peso: 1
+
+France y Chile, peso: 1
+
+France y Colombia, peso: 1
+
+France y EMPTY_STR, peso: 1
+
+France y England, peso: 8
+
+France y France, peso: 54
+
+France y FrancoistSpain, peso: 1
+
+France y FrenchAlgeria, peso: 1
+
+France y Ghana, peso: 1
+
+France y Guadeloupe, peso: 2
+
+France y Italy, peso: 5
+
+France y IvoryCoast, peso: 1
+
+France y LisboaRegion, peso: 1
+
+France y Netherlands, peso: 9
+
+France y Poland, peso: 1
+
+France y Portugal, peso: 6
+
+France y SantaFe, peso: 7
+
+France y Scotland, peso: 5
+
+France y Seine-Maritime, peso: 1
+
+France y Senegal, peso: 3
+
+France y SocialistFederalRepublicofYugoslavia, peso: 1
+
+France y Spain, peso: 2
+
+France y Suriname(KingdomoftheNetherlands), peso: 1
+
+France y UkrainianSovietSocialistRepublic, peso: 1
+
+France y UnitedStates, peso: 1
+
+France y Uruguay, peso: 4
+
+France y Wales, peso: 1
+
+France y WestGermany, peso: 8
+
+France y YamanashiPrefecture, peso: 1
+
+FrancoistSpain y Brazil, peso: 1
+
+FrancoistSpain y England, peso: 1
+
+FrancoistSpain y France, peso: 1
+
+FrancoistSpain y LisboaRegion, peso: 2
+
+FrancoistSpain y Spain, peso: 3
+
+FrenchAlgeria y France, peso: 1
+
+FrenchGuiana y IvoryCoast, peso: 1
+
+FrenchGuiana y LisboaRegion, peso: 1
+
+FrenchprotectorateinMorocco y Brazil, peso: 1
+
+Germany y Brazil, peso: 1
+
+Germany y LisboaRegion, peso: 1
+
+Germany y SantaFe, peso: 2
+
+Germany y Spain, peso: 1
+
+Germany y WestGermany, peso: 4
+
+Ghana y France, peso: 1
+
+Ghana y IvoryCoast, peso: 1
+
+Ghana y LisboaRegion, peso: 2
+
+Ghana y Uruguay, peso: 1
+
+GladsaxeMunicipality y Scotland, peso: 1
+
+GreaterAccraRegion y Uruguay, peso: 1
+
+GreaterManchester y England, peso: 2
+
+Guadeloupe y France, peso: 2
+
+Haute-Saône y IvoryCoast, peso: 1
+
+Honduras y England, peso: 1
+
+India y Scotland, peso: 1
+
+India y WestGermany, peso: 1
+
+Indonesia y Portugal, peso: 1
+
+Ireland y England, peso: 1
+
+Israel y LisboaRegion, peso: 1
+
+Italy y Argentina, peso: 1
+
+Italy y Brazil, peso: 6
+
+Italy y England, peso: 3
+
+Italy y France, peso: 5
+
+Italy y IvoryCoast, peso: 1
+
+Italy y LisboaRegion, peso: 6
+
+Italy y Portugal, peso: 1
+
+Italy y SantaFe, peso: 1
+
+Italy y Spain, peso: 4
+
+Italy y Uruguay, peso: 1
+
+Italy y Wales, peso: 2
+
+Italy y WestGermany, peso: 2
+
+IvoryCoast y Brazil, peso: 1
+
+IvoryCoast y Coted'Ivoire, peso: 1
+
+IvoryCoast y Egypt, peso: 1
+
+IvoryCoast y England, peso: 3
+
+IvoryCoast y France, peso: 1
+
+IvoryCoast y FrenchGuiana, peso: 1
+
+IvoryCoast y Ghana, peso: 1
+
+IvoryCoast y Haute-Saône, peso: 1
+
+IvoryCoast y Italy, peso: 1
+
+IvoryCoast y IvoryCoast, peso: 2
+
+IvoryCoast y LisboaRegion, peso: 2
+
+IvoryCoast y Netherlands, peso: 2
+
+IvoryCoast y Norway, peso: 1
+
+IvoryCoast y Portugal, peso: 1
+
+IvoryCoast y Sergipe, peso: 1
+
+IvoryCoast y Spain, peso: 2
+
+IvoryCoast y VillafrancaMontesdeOca, peso: 1
+
+IvoryCoast y Wales, peso: 3
+
+KingdomofItaly y LisboaRegion, peso: 1
+
+L'HospitaletdeLlobregat y Spain, peso: 1
+
+Lancashire y Scotland, peso: 1
+
+Liberia y Brazil, peso: 1
+
+Limerick y Scotland, peso: 1
+
+LisboaRegion y Allied-occupiedGermany, peso: 1
+
+LisboaRegion y Argentina, peso: 2
+
+LisboaRegion y Austria, peso: 1
+
+LisboaRegion y Belgium, peso: 1
+
+LisboaRegion y Brazil, peso: 3
+
+LisboaRegion y BuenosAires, peso: 1
+
+LisboaRegion y Chile, peso: 1
+
+LisboaRegion y Denmark, peso: 1
+
+LisboaRegion y EastGermany, peso: 1
+
+LisboaRegion y England, peso: 3
+
+LisboaRegion y FlensburgGovernment, peso: 1
+
+LisboaRegion y France, peso: 1
+
+LisboaRegion y FrancoistSpain, peso: 2
+
+LisboaRegion y FrenchGuiana, peso: 1
+
+LisboaRegion y Germany, peso: 1
+
+LisboaRegion y Ghana, peso: 2
+
+LisboaRegion y Israel, peso: 1
+
+LisboaRegion y Italy, peso: 6
+
+LisboaRegion y IvoryCoast, peso: 2
+
+LisboaRegion y KingdomofItaly, peso: 1
+
+LisboaRegion y Netherlands, peso: 2
+
+LisboaRegion y Portugal, peso: 14
+
+LisboaRegion y PortugueseAngola, peso: 1
+
+LisboaRegion y SantaFe, peso: 2
+
+LisboaRegion y Sergipe, peso: 1
+
+LisboaRegion y SocialistFederalRepublicofYugoslavia, peso: 3
+
+LisboaRegion y SovietUnion, peso: 2
+
+LisboaRegion y Spain, peso: 4
+
+LisboaRegion y Sweden, peso: 1
+
+LisboaRegion y VelikolukskyDistrict, peso: 1
+
+LisboaRegion y VillafrancaMontesdeOca, peso: 1
+
+LisboaRegion y WestGermany, peso: 2
+
+LondonBoroughofSutton y England, peso: 1
+
+Mali y Spain, peso: 1
+
+Maputo y Argentina, peso: 2
+
+Maputo y England, peso: 3
+
+Maputo y PontaDelgada(Azores), peso: 1
+
+Maputo y Portugal, peso: 2
+
+Maputo y PortugueseMozambique, peso: 1
+
+Maputo y SovietUnion, peso: 1
+
+Mexico y Brazil, peso: 1
+
+MinasGerais y Brazil, peso: 1
+
+MinasGerais y Wales, peso: 1
+
+Montenegro y England, peso: 1
+
+Netherlands y Brazil, peso: 4
+
+Netherlands y Bronckhorst, peso: 1
+
+Netherlands y England, peso: 5
+
+Netherlands y France, peso: 9
+
+Netherlands y IvoryCoast, peso: 2
+
+Netherlands y LisboaRegion, peso: 2
+
+Netherlands y Netherlands, peso: 6
+
+Netherlands y Portugal, peso: 1
+
+Netherlands y Scotland, peso: 1
+
+Netherlands y Spain, peso: 6
+
+Netherlands y Uruguay, peso: 3
+
+Netherlands y Utrecht(city), peso: 1
+
+Netherlands y Venezuela, peso: 1
+
+Netherlands y Wales, peso: 1
+
+NewSouthWales y Scotland, peso: 1
+
+Nigeria y SantaFe, peso: 1
+
+NorthernIreland y Brazil, peso: 1
+
+NorthernIreland y Scotland, peso: 2
+
+Norway y England, peso: 1
+
+Norway y IvoryCoast, peso: 1
+
+Norway y Scotland, peso: 3
+
+NuevaLoja y England, peso: 1
+
+Ochsenfurt(Germany) y WestGermany, peso: 1
+
+Paraguay y England, peso: 1
+
+PauGrande y Brazil, peso: 1
+
+Pennsylvania y SantaFe, peso: 1
+
+Podgorica y Portugal, peso: 1
+
+Poland y Asturias, peso: 1
+
+Poland y Brazil, peso: 2
+
+Poland y England, peso: 1
+
+Poland y Essonne, peso: 1
+
+Poland y France, peso: 1
+
+Poland y Poland, peso: 2
+
+Poland y Portugal, peso: 1
+
+Poland y SchönauimSchwarzwald, peso: 1
+
+Poland y SocialistFederalRepublicofYugoslavia, peso: 1
+
+Poland y Spain, peso: 1
+
+Poland y Switzerland, peso: 1
+
+Poland y Užice, peso: 1
+
+Poland y WestGermany, peso: 8
+
+PontaDelgada(Azores) y Maputo, peso: 1
+
+Portugal y Argentina, peso: 4
+
+Portugal y Brazil, peso: 7
+
+Portugal y EastGermany, peso: 1
+
+Portugal y England, peso: 6
+
+Portugal y France, peso: 6
+
+Portugal y Indonesia, peso: 1
+
+Portugal y Italy, peso: 1
+
+Portugal y IvoryCoast, peso: 1
+
+Portugal y LisboaRegion, peso: 14
+
+Portugal y Maputo, peso: 2
+
+Portugal y Netherlands, peso: 1
+
+Portugal y Podgorica, peso: 1
+
+Portugal y Poland, peso: 1
+
+Portugal y Portugal, peso: 24
+
+Portugal y PortugueseAngola, peso: 1
+
+Portugal y SantaFe, peso: 2
+
+Portugal y Scotland, peso: 1
+
+Portugal y SocialistFederalRepublicofYugoslavia, peso: 1
+
+Portugal y SovietUnion, peso: 1
+
+Portugal y Spain, peso: 6
+
+Portugal y SãoPaulo, peso: 1
+
+Portugal y Uruguay, peso: 1
+
+Portugal y Wales, peso: 2
+
+Portugal y WestGermany, peso: 3
+
+PortugueseAngola y LisboaRegion, peso: 1
+
+PortugueseAngola y Portugal, peso: 1
+
+PortugueseMozambique y England, peso: 1
+
+PortugueseMozambique y Maputo, peso: 1
+
+PortugueseMozambique y Scotland, peso: 1
+
+Powys y Wales, peso: 1
+
+Russia y WestGermany, peso: 1
+
+SFRYugoslavia y Spain, peso: 1
+
+SFRYugoslavia y WestGermany, peso: 1
+
+SaintPeterPort y Spain, peso: 1
+
+SantaFe y Allied-occupiedGermany, peso: 1
+
+SantaFe y Argentina, peso: 5
+
+SantaFe y BasqueCountry(autonomouscommunity), peso: 1
+
+SantaFe y Brazil, peso: 10
+
+SantaFe y BuenosAires, peso: 2
+
+SantaFe y BuenosAiresprovince, peso: 1
+
+SantaFe y Czechoslovakia, peso: 1
+
+SantaFe y England, peso: 4
+
+SantaFe y France, peso: 7
+
+SantaFe y Germany, peso: 2
+
+SantaFe y Italy, peso: 1
+
+SantaFe y LisboaRegion, peso: 2
+
+SantaFe y Nigeria, peso: 1
+
+SantaFe y Pennsylvania, peso: 1
+
+SantaFe y Portugal, peso: 2
+
+SantaFe y SantaFe, peso: 2
+
+SantaFe y SantaFeProvince, peso: 1
+
+SantaFe y Spain, peso: 16
+
+SantaFe y Sweden, peso: 1
+
+SantaFe y TrelawnyParish, peso: 1
+
+SantaFe y Uruguay, peso: 2
+
+SantaFe y Utrecht(city), peso: 1
+
+SantaFe y WestGermany, peso: 2
+
+SantaFeProvince y SantaFe, peso: 1
+
+Saxony-Anhalt y WestGermany, peso: 1
+
+SchönauimSchwarzwald y Poland, peso: 1
+
+Scotland y BuenosAires, peso: 1
+
+Scotland y Cameroon, peso: 1
+
+Scotland y Cork(city), peso: 1
+
+Scotland y CountyCork, peso: 1
+
+Scotland y England, peso: 30
+
+Scotland y EntreRíos, peso: 1
+
+Scotland y France, peso: 5
+
+Scotland y GladsaxeMunicipality, peso: 1
+
+Scotland y India, peso: 1
+
+Scotland y Lancashire, peso: 1
+
+Scotland y Limerick, peso: 1
+
+Scotland y Netherlands, peso: 1
+
+Scotland y NewSouthWales, peso: 1
+
+Scotland y NorthernIreland, peso: 2
+
+Scotland y Norway, peso: 3
+
+Scotland y Portugal, peso: 1
+
+Scotland y PortugueseMozambique, peso: 1
+
+Scotland y Scotland, peso: 30
+
+Scotland y Senegal, peso: 1
+
+Scotland y Spain, peso: 2
+
+Scotland y TyneandWear, peso: 1
+
+Scotland y UK, peso: 1
+
+Scotland y UkrainianSovietSocialistRepublic, peso: 1
+
+Scotland y Uruguay, peso: 1
+
+Scotland y Užice, peso: 1
+
+Scotland y Wales, peso: 2
+
+Scotland y WestGermany, peso: 1
+
+Seine-Maritime y France, peso: 1
+
+Senegal y France, peso: 3
+
+Senegal y Scotland, peso: 1
+
+Senegal y Uruguay, peso: 1
+
+Sergipe y IvoryCoast, peso: 1
+
+Sergipe y LisboaRegion, peso: 1
+
+SocialistFederalRepublicofYugoslavia y France, peso: 1
+
+SocialistFederalRepublicofYugoslavia y LisboaRegion, peso: 3
+
+SocialistFederalRepublicofYugoslavia y Poland, peso: 1
+
+SocialistFederalRepublicofYugoslavia y Portugal, peso: 1
+
+SocialistFederalRepublicofYugoslavia y Spain, peso: 1
+
+SocialistFederalRepublicofYugoslavia y Uruguay, peso: 1
+
+SovietUnion y Brazil, peso: 1
+
+SovietUnion y England, peso: 1
+
+SovietUnion y LisboaRegion, peso: 2
+
+SovietUnion y Maputo, peso: 1
+
+SovietUnion y Portugal, peso: 1
+
+SovietUnion y WestGermany, peso: 1
+
+Spain y Argentina, peso: 2
+
+Spain y Brazil, peso: 2
+
+Spain y England, peso: 6
+
+Spain y Ethiopia, peso: 1
+
+Spain y France, peso: 2
+
+Spain y FrancoistSpain, peso: 3
+
+Spain y Germany, peso: 1
+
+Spain y Italy, peso: 4
+
+Spain y IvoryCoast, peso: 2
+
+Spain y L'HospitaletdeLlobregat, peso: 1
+
+Spain y LisboaRegion, peso: 4
+
+Spain y Mali, peso: 1
+
+Spain y Netherlands, peso: 6
+
+Spain y Poland, peso: 1
+
+Spain y Portugal, peso: 6
+
+Spain y SFRYugoslavia, peso: 1
+
+Spain y SaintPeterPort, peso: 1
+
+Spain y SantaFe, peso: 16
+
+Spain y Scotland, peso: 2
+
+Spain y SocialistFederalRepublicofYugoslavia, peso: 1
+
+Spain y Spain, peso: 44
+
+Spain y Switzerland, peso: 1
+
+Spain y Uruguay, peso: 2
+
+Spain y Wales, peso: 2
+
+Spain y WestGermany, peso: 4
+
+Suriname(KingdomoftheNetherlands) y France, peso: 1
+
+Sweden y Brazil, peso: 1
+
+Sweden y England, peso: 2
+
+Sweden y LisboaRegion, peso: 1
+
+Sweden y SantaFe, peso: 1
+
+Switzerland y Argentina, peso: 1
+
+Switzerland y Poland, peso: 1
+
+Switzerland y Spain, peso: 1
+
+Switzerland y WestGermany, peso: 1
+
+SãoPaulo(city) y Brazil, peso: 1
+
+SãoPaulo y Brazil, peso: 1
+
+SãoPaulo y Portugal, peso: 1
+
+TrelawnyParish y SantaFe, peso: 1
+
+TrelawnyParish y WestGermany, peso: 1
+
+TyneandWear y Scotland, peso: 1
+
+U.S. y Brazil, peso: 1
+
+UK y Scotland, peso: 1
+
+UK y Wales, peso: 1
+
+UK y WestGermany, peso: 2
+
+UkrainianSovietSocialistRepublic y England, peso: 1
+
+UkrainianSovietSocialistRepublic y France, peso: 1
+
+UkrainianSovietSocialistRepublic y Scotland, peso: 1
+
+UnitedKingdom y Wales, peso: 1
+
+UnitedKingdom y WestGermany, peso: 2
+
+UnitedStates y England, peso: 2
+
+UnitedStates y France, peso: 1
+
+Uruguay y Belgium, peso: 1
+
+Uruguay y Bronckhorst, peso: 1
+
+Uruguay y England, peso: 3
+
+Uruguay y France, peso: 4
+
+Uruguay y Ghana, peso: 1
+
+Uruguay y GreaterAccraRegion, peso: 1
+
+Uruguay y Italy, peso: 1
+
+Uruguay y Netherlands, peso: 3
+
+Uruguay y Portugal, peso: 1
+
+Uruguay y SantaFe, peso: 2
+
+Uruguay y Scotland, peso: 1
+
+Uruguay y Senegal, peso: 1
+
+Uruguay y SocialistFederalRepublicofYugoslavia, peso: 1
+
+Uruguay y Spain, peso: 2
+
+Uruguay y Uruguay, peso: 8
+
+Utrecht(city) y Netherlands, peso: 1
+
+Utrecht(city) y SantaFe, peso: 1
+
+Užice y England, peso: 1
+
+Užice y Poland, peso: 1
+
+Užice y Scotland, peso: 1
+
+VelikolukskyDistrict y LisboaRegion, peso: 1
+
+Venezuela y Netherlands, peso: 1
+
+VillafrancaMontesdeOca y IvoryCoast, peso: 1
+
+VillafrancaMontesdeOca y LisboaRegion, peso: 1
+
+VillafrancaMontesdeOca y WestGermany, peso: 1
+
+Wales y Argentina, peso: 1
+
+Wales y England, peso: 3
+
+Wales y France, peso: 1
+
+Wales y Italy, peso: 2
+
+Wales y IvoryCoast, peso: 3
+
+Wales y MinasGerais, peso: 1
+
+Wales y Netherlands, peso: 1
+
+Wales y Portugal, peso: 2
+
+Wales y Powys, peso: 1
+
+Wales y Scotland, peso: 2
+
+Wales y Spain, peso: 2
+
+Wales y UK, peso: 1
+
+Wales y UnitedKingdom, peso: 1
+
+Wales y Wales, peso: 8
+
+Wales y WestGermany, peso: 1
+
+WestGermany y Argentina, peso: 1
+
+WestGermany y Australia, peso: 1
+
+WestGermany y Austria, peso: 3
+
+WestGermany y Brazil, peso: 5
+
+WestGermany y California, peso: 1
+
+WestGermany y Chemnitz, peso: 1
+
+WestGermany y Coimbra(Portugal), peso: 1
+
+WestGermany y Czechoslovakia, peso: 1
+
+WestGermany y EMPTY_STR, peso: 4
+
+WestGermany y England, peso: 2
+
+WestGermany y Finland, peso: 3
+
+WestGermany y France, peso: 8
+
+WestGermany y Germany, peso: 4
+
+WestGermany y India, peso: 1
+
+WestGermany y Italy, peso: 2
+
+WestGermany y LisboaRegion, peso: 2
+
+WestGermany y Ochsenfurt(Germany), peso: 1
+
+WestGermany y Poland, peso: 8
+
+WestGermany y Portugal, peso: 3
+
+WestGermany y Russia, peso: 1
+
+WestGermany y SFRYugoslavia, peso: 1
+
+WestGermany y SantaFe, peso: 2
+
+WestGermany y Saxony-Anhalt, peso: 1
+
+WestGermany y Scotland, peso: 1
+
+WestGermany y SovietUnion, peso: 1
+
+WestGermany y Spain, peso: 4
+
+WestGermany y Switzerland, peso: 1
+
+WestGermany y TrelawnyParish, peso: 1
+
+WestGermany y UK, peso: 2
+
+WestGermany y UnitedKingdom, peso: 2
+
+WestGermany y VillafrancaMontesdeOca, peso: 1
+
+WestGermany y Wales, peso: 1
+
+WestGermany y WestGermany, peso: 28
+
+WestGermany y WestGermany{{InfoboxF1driver, peso: 1
+
+WestGermany y WesternAustralia, peso: 1
+
+WestGermany{{InfoboxF1driver y WestGermany, peso: 1
+
+WesternAustralia y WestGermany, peso: 1
+
+YamanashiPrefecture y Brazil, peso: 1
+
+YamanashiPrefecture y France, peso: 1
+
+{{flagicon y Brazil, peso: 1
+
