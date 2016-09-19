@@ -1,10 +1,10 @@
 import paramiko
 
 
-nombre_consulta = 'Balvin'
-pais_consulta = '-'
-fecha_ini_consulta = '-'
-fecha_fin_consulta = '1987-01-01'
+nombre_consulta = 'Falcao'
+pais_consulta = 'Colombia'
+fecha_ini_consulta = '1980-01-01'
+fecha_fin_consulta = '1993-01-01'
 #ip = 'IPFALSA'
 #usuario = 'USUARIO_FALSO'
 #password_cluster = 'PASS FALSO'
@@ -58,13 +58,19 @@ for el in out:
 		objeto_3 = objeto_3.replace("\t", "")
 		str_fortalezas = str_fortalezas + "\n" + objeto_1 + " y " + objeto_2 + ", peso: " + objeto_3
 
-
+objeto_retorno = {}
+objeto_retorno['personas'] = lista_personas
+objeto_retorno['relaciones'] = lista_relaciones
+objeto_retorno['fortaleza'] = str_fortalezas
+#print " "
+#print "Lista personas:"
+#print lista_personas
+#print " "
+#print "Lista relaciones:"
+#print lista_relaciones
+#print " "
+#print "Fortaleza:"
+#print str_fortalezas
 print " "
-print "Lista personas:"
-print lista_personas
-print " "
-print "Lista relaciones:"
-print lista_relaciones
-print " "
-print "Fortaleza:"
-print str_fortalezas
+print "Objeto de retorno:"
+print objeto_retorno
