@@ -1,36 +1,22 @@
 package uniandes.mapRed;
 
 import java.io.IOException;
-import java.util.ArrayList;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
-public class WCReducer extends Reducer<Text, Text, Text, IntWritable> {
+public class WCReducer extends Reducer<Text, IntWritable, Text, IntWritable> {
 	@Override
-	protected void reduce(Text key, Iterable<Text> values,
+	protected void reduce(Text key, Iterable<IntWritable> values,
 			Context context)
 			throws IOException, InterruptedException {
-		ArrayList<String> links = new ArrayList<String>();
-		String respuesta = "";
-		boolean escribir = false;
-		for(Text iw:values){
-			String val = iw.toString();
-			String[] val_arr = val.split(";");
-			if(val_arr[0].equals("P")){
-				escribir = true;
-				respuesta = val;
-			}else{
-				links.add(val);
-			}
+		int tot=0;
+		for(IntWritable iw:values){
+			tot+=iw.get();
 		}
-		if(escribir){
-			context.write(new Text(respuesta), new IntWritable(1));
-			for(int i=0;i<links.size();i++){
-				context.write(new Text(links.get(i)), new IntWritable(1));
-			}
-		}
+		context.write(key, new IntWritable(tot));
+		
 	}
 
 }

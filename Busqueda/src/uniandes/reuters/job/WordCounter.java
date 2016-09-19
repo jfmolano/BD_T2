@@ -47,7 +47,7 @@ public class WordCounter {
 		wcJob.setMapperClass(WCMapper.class);
 		
 		wcJob.setMapOutputKeyClass(Text.class);
-		wcJob.setMapOutputValueClass(Text.class);
+		wcJob.setMapOutputValueClass(IntWritable.class);
 		///////////////////////////
 		//Reducer
 		///////////////////////////
