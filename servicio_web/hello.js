@@ -1,30 +1,16 @@
 $(document).ready(function() {
-    $("#Resta").click(function(){
-        var A = $('#txt_A').val();
-        var B = $('#txt_B').val();
-        console.log("A " + A)
-        console.log("B " + B)
-        url_get = "http://localhost:5000/api/resta/" + A + "/" + B
-        console.log(url_get)
-        $.ajax({
-	type: "GET",
-        url: url_get
-        }).then(function(data) {
-            console.log("data: " + data)
-	    console.log("data.marca " + data.marca)
-	    console.log("data.marca.Resultado " + data.marca.Resultado)
-       $('#resultado_text').text(data.marca.Resultado);
-    });
-    });
-
-    $("#Suma").click(function(){
-        console.log("Suma")
-        var A = $('#txt_A').val();
-        var B = $('#txt_B').val();
-        console.log("A " + A)
-        console.log("B " + B)
-        url_post = "http://localhost:5000/api/suma"
-	var jsonData = "{\"A\":\""+A+"\",\"B\":\""+B+"\"}";
+    $("#Consultar").click(function(){
+        console.log("Consultar")
+        var nombre = $('#txt_Nombre').val();
+        var pais = $('#txt_Pais').val();
+        var fini = $('#txt_FechaIni').val();
+        var ffin = $('#txt_FechaFin').val();
+        console.log("txt_Nombre " + nombre)
+        console.log("txt_Pais " + pais)
+        console.log("txt_FechaIni " + fini)
+        console.log("txt_FechaFin " + ffin)
+        url_post = "http://mine4102-3.virtual.uniandes.edu.co:8080/dar_objeto_consulta"
+	    var jsonData = "{\"nombre\":\""+nombre+"\",\"pais\":\""+pais+"\",\"fini\":\""+fini+"\",\"ffin\":\""+ffin+"\"}";
         console.log(url_post)
         console.log("JSON: "+jsonData)
         $.ajax({
@@ -35,9 +21,8 @@ $(document).ready(function() {
         url: url_post
         }).then(function(data) {
             console.log("data: " + data)
-	    console.log("data.marca " + data.marca)
-	    console.log("data.marca.Resultado " + data.marca.Resultado)
-       $('#resultado_text').text(data.marca.Resultado);
+            console.log(data.fortaleza)
+       $('#resultado_text').text(data.fortaleza);
     });
     });
 });
