@@ -1,9 +1,9 @@
 import paramiko
 
 
-nombre_consulta = 'Cristiano'
-pais_consulta = 'Portugal'
-fecha_ini_consulta = '1982-01-01'
+nombre_consulta = 'Balvin'
+pais_consulta = '-'
+fecha_ini_consulta = '-'
 fecha_fin_consulta = '1987-01-01'
 #ip = 'IPFALSA'
 #usuario = 'USUARIO_FALSO'
@@ -52,9 +52,9 @@ for el in out:
 		objeto_1 = arreglo[1]
 		objeto_2 = arreglo[2]
 		objeto_3 = arreglo[3]
-		print objeto_1
-		print objeto_2
-		print objeto_3
+		#print objeto_1
+		#print objeto_2
+		#print objeto_3
 		objeto_3 = objeto_3.replace("\t", "")
 		str_fortalezas = str_fortalezas + "\n" + objeto_1 + " y " + objeto_2 + ", peso: " + objeto_3
 
