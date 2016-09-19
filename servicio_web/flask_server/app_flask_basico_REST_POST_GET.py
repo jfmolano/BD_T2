@@ -1,5 +1,6 @@
 from flask import Flask, jsonify, abort, make_response, request
 import csv
+import paramiko
 
 app = Flask(__name__)
 
@@ -18,15 +19,72 @@ marcas = [
 def get_marcas():
 	return jsonify({'marcas': marcas})
 
-@app.route('/api/dar_marca', methods=['POST'])
-def dar_marca_post():
-	if not request.json or not 'Id' in request.json:
+@app.route('/dar_objeto_consulta', methods=['POST'])
+def dar_objeto_consulta():
+	if not request.json:
 		abort(400)
-	marca = {
-	'Id': request.json['Id'],
-	'Dato': request.json.get('Dato', "")
-	}
-	return jsonify({'marca': marca}), 201
+	nombre_consulta = request.json.get('nombre', "")
+	pais_consulta = request.json.get('pais', "")
+	fecha_ini_consulta = request.json.get('fini', "")
+	fecha_fin_consulta = request.json.get('ffin', "")
+	#ip = 'IPFALSA'
+	#usuario = 'USUARIO_FALSO'
+	#password_cluster = 'PASS FALSO'
+	#ruta = 'RUTA FALSA'
+	ssh = paramiko.SSHClient()
+	ssh.set_missing_host_key_policy(
+	    paramiko.AutoAddPolicy())
+	ssh.connect(ip, username=usuario,
+	    password=password_cluster)
+	stdin, stdout, stderr = ssh.exec_command('hadoop fs -rm -r /'+ruta+'/resultado_parametros/')
+	salida = stdout.readlines()
+	print salida
+	comando = 'hadoop jar busqueda_parametros.jar uniandes.reuters.job.WordCounter /'+ruta+'/arbol_N2_V3/* /'+ruta+'/resultado_parametros '+nombre_consulta+' '+pais_consulta+' '+fecha_ini_consulta+' '+fecha_fin_consulta
+	print comando
+	stdin, stdout, stderr = ssh.exec_command(comando)
+	salida = stdout.readlines()
+	print salida
+	stdin, stdout, stderr = ssh.exec_command('hadoop fs -cat /'+ruta+'/resultado_parametros/*')
+	out = stdout.readlines()
+	lista_personas = []
+	lista_relaciones = []
+	pesos_paises = ''
+	str_fortalezas = ""
+	for el in out:
+		if el.startswith( 'P' ):
+			obj = {}
+			arreglo = el.split(";")
+			nombre = arreglo[1]
+			fecha = arreglo[2]
+			pais = arreglo[3]
+			obj['nombre'] = nombre
+			obj['fecha'] = fecha
+			obj['pais'] = pais
+			lista_personas.append(obj)
+		elif el.startswith( 'R;' ):
+			obj = {}
+			arreglo = el.split(";")
+			objeto_1 = arreglo[1]
+			objeto_2 = arreglo[2]
+			obj['p1'] = objeto_1
+			obj['p2'] = objeto_2
+			lista_relaciones.append(obj)
+		elif el.startswith( 'R_' ):
+			arreglo = el.split(";")
+			objeto_1 = arreglo[1]
+			objeto_2 = arreglo[2]
+			objeto_3 = arreglo[3]
+			objeto_3 = objeto_3.replace("\t", "")
+			str_fortalezas = str_fortalezas + "\n" + objeto_1 + " y " + objeto_2 + ", peso: " + objeto_3
+
+	objeto_retorno = {}
+	objeto_retorno['personas'] = lista_personas
+	objeto_retorno['relaciones'] = lista_relaciones
+	objeto_retorno['fortaleza'] = str_fortalezas
+	print " "
+	print "Objeto de retorno:"
+	print objeto_retorno
+	return jsonify(objeto_retorno), 201
 
 @app.route('/api/dar_marca/<Id>/<Dato>', methods=['GET'])
 def dar_marca_get(Id,Dato):

@@ -1,0 +1,11 @@
+#!/home/jfm/MISIS_primersemestre/bigdata/taller2/BD_T2/servicio_web/flask_server/venv/bin/python
+
+# -*- coding: utf-8 -*-
+import re
+import sys
+
+from flask.cli import main
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
