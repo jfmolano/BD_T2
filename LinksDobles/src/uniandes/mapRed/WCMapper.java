@@ -16,12 +16,16 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 	protected void map(LongWritable key, Text value,
 			Context context)
 			throws IOException, InterruptedException {
-			String val = value.toString();		
-			String link1 = val.replace("\t", "")+";";
-			String [] arr_t = link1.split(";");
-			String new_str = "LR;"+arr_t[2]+";"+arr_t[1]+";";
-			context.write(new Text(link1), new IntWritable(1));
-			context.write(new Text(new_str), new IntWritable(1));
+			String val = value.toString();
+			String [] arr_t = val.split("::");
+			String per_1 = arr_t[1];
+			String per_2 = arr_t[2];
+			per_1 = per_1.replace("\t", "");
+			per_2 = per_2.replace("\t", "");
+			String new_str_1 = "LR::"+per_1+"::"+per_2+"::";
+			String new_str_2 = "LR::"+per_2+"::"+per_1+"::";
+			context.write(new Text(new_str_1), new IntWritable(1));
+			context.write(new Text(new_str_2), new IntWritable(1));
 		}		
 	}
 

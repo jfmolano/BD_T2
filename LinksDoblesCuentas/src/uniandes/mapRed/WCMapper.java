@@ -17,11 +17,11 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, Text> {
 			Context context)
 			throws IOException, InterruptedException {
 			String val = value.toString();
-			String [] arr_t = val.split(";");
+			String [] arr_t = val.split("::");
 			String a = arr_t[1];
 			String b = arr_t[2];
-			context.write(new Text(a), new Text("sem;"+b));
-			context.write(new Text(a), new Text("join;"+b+";"+a));
+			context.write(new Text(a), new Text("sem::"+b));
+			context.write(new Text(a), new Text("join::"+b+"::"+a));
 		}		
 	}
 

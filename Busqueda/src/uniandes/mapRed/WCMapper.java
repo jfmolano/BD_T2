@@ -81,13 +81,13 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, Text> {
 				}
 			}
 			if(cumple_fecha && cumple_nombre && cumple_pais){
-				context.write(new Text(nombre), new Text("P"+nombre+";"+fecha+";"+pais+";"));				
+				context.write(new Text(nombre), new Text("P;"+nombre+";"+fecha+";"+pais+";"));				
 			}
 		}else if(val.startsWith("LR")){
 			String[] arr = val.split(";");
 			try{
 				String nombre = arr[1];
-				context.write(new Text(nombre), new Text("LI"+arr[1]+";"+arr[2]));					
+				context.write(new Text(nombre), new Text("LI;"+arr[1]+";"+arr[2]));					
 			}catch(ArrayIndexOutOfBoundsException e){
 				
 			}
@@ -95,7 +95,7 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, Text> {
 			String[] arr = val.split(";");
 			try{
 				String nombre = arr[1];
-				context.write(new Text(nombre), new Text("LI"+arr[2]+";"+arr[3]));					
+				context.write(new Text(nombre), new Text("LI;"+arr[2]+";"+arr[3]));					
 			}catch(ArrayIndexOutOfBoundsException e){
 				
 			}	

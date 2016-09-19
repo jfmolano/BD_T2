@@ -26,10 +26,10 @@ public class WCReducer extends Reducer<Text, Text, Text, IntWritable> {
 			}
 		}
 		if(escribir){
-			for(int i=0;i<links.size();i++){
-				respuesta = respuesta + links.get(i);
-			}
 			context.write(new Text(respuesta), new IntWritable(1));
+			for(int i=0;i<links.size();i++){
+				context.write(new Text(links.get(i)), new IntWritable(1));
+			}
 		}
 	}
 

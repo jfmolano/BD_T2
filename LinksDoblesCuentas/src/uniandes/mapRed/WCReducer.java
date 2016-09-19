@@ -16,11 +16,11 @@ public class WCReducer extends Reducer<Text, Text, Text, IntWritable> {
 		ArrayList<String> joins = new ArrayList<String>();
 		for(Text iw:values){
 			String val = iw.toString();
-			String[] val_arr = val.split(";");
+			String[] val_arr = val.split("::");
 			if(val_arr[0].equals("sem")){
 				semillas.add(val_arr[1]);
 			}else{
-				joins.add(val_arr[1]+";"+val_arr[2]);
+				joins.add(val_arr[1]+"::"+val_arr[2]);
 			}
 		}
 		for(int i = 0;i<joins.size();i++){
@@ -28,7 +28,7 @@ public class WCReducer extends Reducer<Text, Text, Text, IntWritable> {
 			for(int j = 0;j<semillas.size();j++){
 				String semilla_str = semillas.get(j);
 				if(!join_str.contains(semilla_str)){
-					context.write(new Text("LD;"+join_str+";"+semilla_str+";"), new IntWritable(0));					
+					context.write(new Text("LD::"+join_str+"::"+semilla_str+"::"), new IntWritable(0));					
 				}
 			}
 		}

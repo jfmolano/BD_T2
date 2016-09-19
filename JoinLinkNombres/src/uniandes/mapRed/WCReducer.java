@@ -14,10 +14,12 @@ public class WCReducer extends Reducer<Text, Text, Text, Text> {
 			throws IOException, InterruptedException {
 		ArrayList<String> arreglo_str = new ArrayList<String>();
 		boolean escribir = false;
+		String info = "";
 		for(Text iw:values){
 			String str_act = iw.toString();
-			if(str_act.equals("NOMBRE-REAL")){
+			if(str_act.startsWith("NOMBRE-REAL")){
 				escribir = true;
+				info = str_act.split("::")[1];
 			}
 			else{
 				arreglo_str.add(str_act);
@@ -25,7 +27,7 @@ public class WCReducer extends Reducer<Text, Text, Text, Text> {
 		}
 		if(escribir){
 			for(int i=0;i<arreglo_str.size();i++){
-				context.write(new Text("LR;"+key.toString()), new Text(";"+arreglo_str.get(i)));				
+				context.write(new Text("LR::"+info), new Text("::"+arreglo_str.get(i)));				
 			}		
 		}		
 	}

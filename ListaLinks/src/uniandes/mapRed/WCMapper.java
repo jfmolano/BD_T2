@@ -68,6 +68,19 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 					    	titulo = m_title.group(0);
 							titulo = titulo.substring(7, titulo.length()-8);
 					    }
+					    String pattern_pob = "birth_place[\\s\\S]*?\\|";
+					    Pattern p_pob = Pattern.compile(pattern_pob, Pattern.MULTILINE);
+				    	Matcher m_pob = p_pob.matcher(val);
+				    	String pob = "";
+					    if (m_pob.find()) {
+					    	pob = m_pob.group(0).split("=")[1];
+					    	pob = pob.replace("\n", "");
+					    	pob = pob.replace("\r", "");
+					    	pob = pob.replace(" ", "");
+					    	pob = pob.replace("[", "");
+					    	pob = pob.replace("]", "");
+					    	pob = pob.substring(0,pob.length()-1);
+					    }
 					    //Links
 					    String pattern_link = "\\[\\[[\\s\\S]*?\\]\\]";
 					    Pattern p_link = Pattern.compile(pattern_link, Pattern.MULTILINE);
@@ -78,7 +91,8 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 					    	temp_link = temp_link.replace("\r", "");
 					    	temp_link = temp_link.replace("[", "");
 					    	temp_link = temp_link.replace("]", "");
-							context.write(new Text("L"+";"+titulo+";"+temp_link+";"), new IntWritable(1));
+					    	String []pob_split = pob.split(",");
+							context.write(new Text("L"+"::"+titulo+";"+fecha+";"+pob_split[pob_split.length-1]+"::"+temp_link+"::"), new IntWritable(1));
 							context.write(new Text("Cuenta: "), new IntWritable(1));
 					    }
 				    }
