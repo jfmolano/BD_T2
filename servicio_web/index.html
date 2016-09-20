@@ -4,19 +4,23 @@
         <title>Hello jQuery</title>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script src="http://cytoscape.github.io/cytoscape.js/api/cytoscape.js-latest/cytoscape.min.js"></script> 
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <meta charset=utf-8 />
         <script src="hello.js"></script>
 	</head>
 
     <body>
         <div>
-            <p>Resultado <span id = "resultado_text">.</span></p>
             <input type="text" id="txt_Nombre"  />
             <input type="text" id="txt_Pais"  />
             <input type="text" id="txt_FechaIni"  />
             <input type="text" id="txt_FechaFin"  />
             <input id = "Consultar" type="submit" value="Consultar"/>
         </div>
-        <div id="cy" style="height: 600px; width: 100%; position: relative; left: 0px; top: 0px;"></div>
+        <div class="row" style="width: 95%;">
+	        <div id="cy" class="col-sm-8" style="height: 600px; position: relative; left: 0px; top: 0px;"></div>
+	        <div id = "resultado_text" class="col-sm-4" style="padding: 40px;overflow: auto;height: 600px;"></div>
+        </div>
     </body>
 </html>

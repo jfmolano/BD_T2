@@ -92,8 +92,13 @@ $(document).ready(function() {
             console.log("data: " + data)
             console.log(data.personas)
             console.log(data.relaciones)
-       $('#resultado_text').text(data.fortaleza);
-
+            console.log("FORTALEZA: ")
+            console.log(data.fortaleza)
+            for(var i = 0; i < data.fortaleza.length; i++){
+                var elem = data.fortaleza[i]
+                console.log(elem)
+               $('#resultado_text').append( "<p>"+elem.pais1 +" y "+elem.pais2+" peso:"+elem.peso+"</p>" );
+           }
         console.log("txt_Nombre " + nombre)
         console.log("txt_Nombre " + nombre)
 
